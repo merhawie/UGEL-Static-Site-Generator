@@ -1,0 +1,8 @@
+article 21: Use of construction minerals, water and timber 
+
+<ul>
+			<li>1 - : The licensee may remove and use construction minerals required for mining operations which are found within the license area or within the land covered by a lease, provided that no other license has been issued to another person for such minerals. <ul>
+			</ul></li>			<li>2 - : The licensee may use surface and subsurface water found in the license area and the area of a lease for consumption by himself, his agents, employees and their dependents. A licensee may also use surface water for mining operations, provided that such use does not result in a substantial reduction of the amount of water available to satisfy the need of other users or, unless authorized pursuant to directive, result in the pollution thereof. A licensee shall not construct a dam or divert any watercourse without the prior approval of the appropriate Government Authority. <ul>
+			</ul></li>			<li>3 - : The holder of an exploration or mining license may cut and use, from the license area and the area of lease, timber which is necessary for mining operations. The licensee shall comply with the applicable laws regarding the cutting of timber and reforestation and must submit a restoration plan as may be specified by directive. <ul>
+			</ul></li>			<li>4 - : The holder of a prospecting and artisanal mining license shall cut and use only such timber as is strictly necessary for access to the areas in which mining operations are carried out. <ul>
+			</ul></li></ul>

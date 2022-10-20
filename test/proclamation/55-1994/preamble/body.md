@@ -1,0 +1,10 @@
+preamble : Preamble
+
+<ul>
+			<li> - : WHEREAS, after a long, bitter and costly war, the people of Eritrea attained their cherished goal of national liberation on 24 may, 1991; <ul>
+			</ul></li>			<li> - : WHEREAS, Eritrea’s political future, as a sovereign, independent state, was settled subsequently, in an internationally monitored fair and open referendum held on April 23-25, 1993;<ul>
+			</ul></li>			<li> - : WHEREAS, the Government of Eritrea has been established under Proclamation No.37&#x2F;1993 with the responsibility, inter alia, of maintaining the unity and territorial integrity of Eritrea; of guaranteeing the fundamental rights and liberties of its citizens; of planning, organizing and directing the reconstruction and rehabilitation of the war-ravaged national economy; and, above all, of preparing the ground and lying the foundation for democratic system of government;<ul>
+			</ul></li>			<li> - : WHEREAS, to achieve the last of the aforementioned goals, it has been provided under Article 4(6) (a) and (b) of Proclamation No. 37&#x2F;1993, that the Eritrean National Assembly shall establish a Constitutional Commission comprising experts and other citizens with proven ability to make a contribution to the process of constitution-making, and charged with the responsibility of drafting a constitution and organizing popular participation in such a process of constitution-making; and<ul>
+			</ul></li>			<li> - : WHEREAS, the proper and timely establishment of the said Constitutional Commission and the satisfactory performance of its duties is a matter of the utmost importance, involving as it would an historic process of a coming together of Eritreans for a creative national discourse in pursuit of a national ethos rooted in the long and hard struggle for national liberation and human dignity with succeeding generations of Eritreans can look up on as the wellspring of their liberty and democratic future;<ul>
+			</ul></li>			<li> - : NOW THEREFORE, in accordance with Article 4(6) (a) of Proclamation No. 37&#x2F;1993, it is hereby proclaimed as follows: <ul>
+			</ul></li></ul>

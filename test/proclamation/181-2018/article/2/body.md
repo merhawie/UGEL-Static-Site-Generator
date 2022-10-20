@@ -1,0 +1,31 @@
+article 2: Amendment
+The following amendments shall be made to the Proclamation No. 175&#x2F;2014 on Anti-Money Laundering and Combating Financing of Terrorism:
+<ul>
+			<li>1 - : Paragraphs (2) and (29) of Article 2(1) are hereby deleted and replaced by the following new paragraphs (2) and (29) of Article 2(1) respectively:<ul>
+						<li>2 - : &quot;Beneficial Owner&quot; refers to the natural person who ultimately owns or controls a customer or account, the person on whose behalf a transaction is being conducted, or the person who ultimately exercises effective control over a legal person or arrangement by directly or indirectly holding or controlling at least 25% in the capital or at least 25% of the voting rights of a company, or who controls of right or de facto the legal entity;<ul>
+						</ul></li>						<li>29 - : &quot;Shell Bank&quot; means a bank that has no physical presence in the country in which it is incorporated and licensed, unless such bank is wholly owned by one or more financial institutions forming part of a regulated financial services group that is subject to effective consolidated supervision.<ul>
+						</ul></li>			</ul></li>			<li>2 - : Under article 14, the following new paragraph (f) to sub-Article (1), and sub-Articles (3) and (4) are hereby inserted:<ul>
+						<li>f - : undertake National Risk Assessment by applying methodology and predicate activity as it may find appropriate.<ul>
+						</ul></li>						<li>3 - : The Powers of the FIU shall be to:<ul>
+									<li>a - : issue instructions to stop transactions;<ul>
+									</ul></li>									<li>b - : apply to a competent court of jurisdiction for an order to freezing of accounts;<ul>
+									</ul></li>									<li>c - : conduct inquiries on behalf of foreign counterparts; and<ul>
+									</ul></li>									<li>d - : ensure that non-profit associations established pursuant to the relevant provisions of the Civil Code are not misused to defeat the objectives and purposes of this Proclamation.<ul>
+									</ul></li>						</ul></li>						<li>4 - : the FIU shall have such operational independence in terms of having<ul>
+						</ul></li>			</ul></li>			<li>3 - : The words that read &quot;... and the supervisory authority ...&quot; in the second line under paragraph (b) of Article 14(1) are hereby deleted.<ul>
+			</ul></li>			<li>4 - : The following new Article 14A is hereby inserted after Article 14:<ul>
+						<li>14A - Investigation of Money Laundering and Terrorist Financing Cases by Investigative or Law Enforcement Agencies: Where reports are received by Law enforcement and investigative agencies pursuant to Article 14(b) of this Proclamation, they shall have the power to investigate the reported case in accordance with the applicable provisions of the law.<ul>
+						</ul></li>			</ul></li>			<li>5 - : Article 18 is hereby deleted and replaced by the following new Article 18:<ul>
+						<li>18 - Administrative Sanctions by the FIU: Whenever the FIU determines that a financial institution is not complying or has not complied with an obligation set-out in this Proclamation, it can impose such administrative sanctions against reporting institutions for non-cooperation or non-compliance as it finds appropriate.<ul>
+						</ul></li>			</ul></li>			<li>6 - : The following new Article 29A is inserted after Article 29:<ul>
+						<li>a - : A supervised entity that fails to register with the FIU as may be required by applicable Regulations commits an offence and shall be liable to a fine not exceeding Fifty Thousand (50,000.00) Nakfa.<ul>
+						</ul></li>						<li>b - : A reporting entity or any director, partner, officer, principal or employee of the reporting entity who discloses to its customer or to a third party that a report or any other information concerning suspected money laundering, financing of terrorism of any other serious offence shall be, is being or has been, submitted to the FIU, or that a money laundering, financing of terrorism or any other serious offence investigation is being, or has been, carried out, except in circumstances as may be set out or required by law to do so commits an offence and shall, upon conviction, be liable to a fine not exceeding Fifty Thousand (50,000.00) Nakfa or imprisonment for a period not exceeding two years, or both.<ul>
+						</ul></li>			</ul></li>			<li>7 - : Under Article 30, the following new Sub-Articles (10) and (11) are hereby inserted after sub-Article (9):<ul>
+						<li>10 - : a person who access financial intelligence and information on the database without obtaining authorization from the Director in accordance with applicable Directives;<ul>
+						</ul></li>						<li>11 - : served as an officer but is no longer employed with the FIU and fails to return the identification document given to him for the performance of functions assigned to the FIU;<ul>
+						</ul></li>			</ul></li>			<li>8 - : The following new sub-Articles (4) and (5) are hereby inserted under Article 34:<ul>
+						<li>4 - : the provisions under sub-Article (1) shall also be understood to include laundering the proceeds of crime committed abroad.<ul>
+						</ul></li>						<li>5 - : where the crime of money laundering is committed through agents, the financial and non-financial intermediaries for whom they acted shall be criminally liable for their negligence where negligence as defined in the relevant provisions of the Penal Code can be established.<ul>
+						</ul></li>			</ul></li>			<li>9 - : Sub-Article (1) of Article 35 is hereby deleted and replaced by the following new Sub-Article (1) of Article 35:<ul>
+						<li>1 - : The funds associated with money laundering, those funds associated with terrorists and who finance terrorists and terrorist organizations shall be frozen by the decision of the FIU. Such decision shall define the terms, conditions and time limits applicable to the freezing. A financial institution holding such funds shall immediately freeze them upon receiving the decision of the supervisory authority.<ul>
+						</ul></li>			</ul></li></ul>

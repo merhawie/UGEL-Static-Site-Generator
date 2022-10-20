@@ -1,0 +1,11 @@
+article 6: Mode of Valuation
+
+<ul>
+			<li>1 - : Where the value of the right or obligation executed by means of an instrument can be determined, the rate chargeable on such instrument shall be the percentage of value specified for each such instrument in the schedule above, where the value of the right or obligation executed by means of an instrument cannot be determined, the amount chargeable on such an instrument is the fixed amount specified for each such instrument in the schedule.<ul>
+			</ul></li>			<li>2 - : Where an instrument is chargeable with stamp duty in respect of any amount expressed in any currency other than Nakfa, such amount shall be computed on the basis of the prevailing rate of exchange.<ul>
+			</ul></li>			<li>3 - : Where an instrument is chargeable with stamp duty on an ad valorem basis in respect of any stock or of any marketable security, such amount shall be computed on the average value of the stock or security prevailing at the time when the distinct instrument is drawn.<ul>
+			</ul></li>			<li>4 - : Any instrument comprising two or more different or related matters shall be chargeable with the aggregate amount of duties payable in respect of each separate instrument.<ul>
+			</ul></li>			<li>5 - : The stamp duty payable on documents transferring title shall be calculated on the value of the property involved as agreed upon between the transferor and transferee, provided however that such valuation is approved by the Inland Revenue Department.<ul>
+			</ul></li>			<li>6 - : Where the value agreed between the transferor and the transferee is not acceptable to the Inland Revenue Department, the value of the property involved in the transfer of title shall, for the purpose of calculating the stamp duty, be determined by a special committee comprising concerned governmental agencies appointed or designated by the Minister.<ul>
+			</ul></li>			<li>7 - : The Minister may approve or reject the stamp duty determined to be paid by the special committee.<ul>
+			</ul></li></ul>

@@ -1,0 +1,7 @@
+article 37: Establishment of Central Seizure and Confiscation Agency
+An autonomous Central Seizure and Confiscation Agency (hereinafter “The Agency”) shall be established by Government directive in order to manage and administer properties subject to seizure and confiscation pursuant to this Proclamation. The agency shall, in particular:
+<ul>
+			<li>1 - : assist the competent authority and other law enforcement bodies responsible for investigating and prosecuting offences, in identifying and tracing property that may be subject to seizure and confiscation. The agency shall collect and maintain all data associated with its mandate and manage seized properties in cooperation with the Attorney General’s Office or the court overseeing the investigations;<ul>
+			</ul></li>			<li>2 - : administer or manage seized property in accordance with the feasible means available to it, and with a view to returning or confiscating such property in a condition reasonably comparable to its condition at the time of seizure. The court overseeing the investigations may authorize the sale of property likely to incur significant depreciation as the result of management or for which the cost of preservation is unreasonably disproportional to its value; and<ul>
+			</ul></li>			<li>3 - : manage seize sums of money unless they were already entrusted to a financial institution or were seized or blocked there.<ul>
+			</ul></li></ul>

@@ -1,0 +1,9 @@
+article 30: Insurance
+The Contractor and its Subcontractors shall effect and maintain for the Petroleum Operations insurance coverage of the type and in such amount as is required by law and as is customary in the international petroleum industry in accordance with good oil field practice, including blowout insurance and shall furnish to the Government certificates evidencing that such coverage is in effect. Such insurance policies shall include the Government as an additional insured and shall waive subrogation against the Government. The said insurance shall, without prejudice to the generality of the foregoing cover:
+<ul>
+			<li>a - : Loss or damage to any installations, equipment and other assets for so long as they are used in the Petroleum Operations; provided, however, if for any reason the Contractor fails to insure any such installation, equipment or assets, it shall replace any loss thereof or repair any damage caused thereto to the extent required for the proper conduct of Petroleum Operations;<ul>
+			</ul></li>			<li>b - : Environmental Damage caused in the course of the Petroleum Operations for which the Contractor or the Government may be held responsible;<ul>
+			</ul></li>			<li>c - : Property loss or damage or bodily injury suffered by any third party in the course of the Petroleum Operations for which the Contractor or the Government may be liable or the Contractor may be liable to indemnify the Government;<ul>
+			</ul></li>			<li>d - : With respect to offshore operations, the cost of removing wrecks and cleaning up operations following any accident in the course of the Petroleum Operations; and <ul>
+			</ul></li>			<li>e - : The Contractor&#39;s liability for any injury to its employees engaged in the Petroleum Operations.<ul>
+			</ul></li></ul>

@@ -1,0 +1,8 @@
+article 11: Procedures for Approval
+
+<ul>
+			<li>1 - : The Minister shall, before the owners start to build or rebuild a plant, approve the plans of the plants, once he has verified that the project of this plant meet the requirements laid down in the Fishery Product Regulations Legal Notice No. 40&#x2F;1998.<ul>
+			</ul></li>			<li>2 - : The Ministe5r shall approve plants, once he has verified that these plants meet the requirements of the Regulations Legal Notice No. 40&#x2F;1998, with regard to the nature of the activities they  carry out. The approval must be renewed if an establishment decides to carry out activities other than  those for which it has received approval.<ul>
+			</ul></li>			<li>3 - : The Minister shall approve auctions and official landing places, once he has verified that this auctions and landing places meet the requirements of the Fishery Product Regulations Legal Notice No. 40&#x2F;1998. The Minister shall take the necessary measures if the requirements cease to be met.<ul>
+			</ul></li>			<li>4 - : The Minister shall draw up a list of their approved plants, auctions and official landing places, each of which shall have an official number. The inspection and monitoring of plants, auction and official landing places shall be carried out regularly under the responsibility of the Minister, which shall at all times have free access to all parts of plants in order to ensure compliance with the requirements of the Fishery Product Regulations Legal Notice No. 40&#x2F;1998.<ul>
+			</ul></li></ul>

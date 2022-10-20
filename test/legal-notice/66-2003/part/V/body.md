@@ -1,0 +1,6 @@
+part V: REPEAL
+
+<ul>
+			<li>29 - Repeal: The provisions under sub-articles (3) (c) (i), (ii) and (iii) of Article 20 of the Legal Notice No. 40&#x2F;1998 is hereby deleted.<ul>
+			</ul></li>			<li>30 - Effective Date: These Regulations shall come into force on the date of their publication in the Gazette of Eritrean Laws. Done at Asmara, this 30th day of April, 2003 Ahmed Haj Ali, Minister of Fisheries.<ul>
+			</ul></li></ul>

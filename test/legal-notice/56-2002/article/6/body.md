@@ -1,0 +1,8 @@
+article 6: Power of an Officer to Examine or Detain Mail
+
+<ul>
+			<li>1 - : An Officer may at any time up to the time of release, examine any mail that has been imported and, subject to this section, open or cause to be opened any such mail item that he suspects on reasonable grounds contains any goods referred to in the Customs tariff, or any goods the importation of which is prohibited, controlled or regulated under any other law of Eritrea, and take samples of any thing contained in such mail in reasonable amounts. <ul>
+			</ul></li>			<li>2 - : An officer may not open or cause to be opened an imported mail item that weighs thirty grams or less unless the person to whom it is addressed consents or the person who sent it has completed and attached to the mail item a label in accordance with Article 116 of the detailed Regulations of the Universal Postal Convention.<ul>
+			</ul></li>			<li>3 - : Goods that have been imported or are about to be exported may be detained by an officer until he is satisfied that the goods have been dealt with in accordance with this proclamation, and importation or exportation of goods. <ul>
+			</ul></li>			<li>4 - : Goods that have been imported or exported in contravention of this or any other law of Eritrea, and that have been detained shall be disposed of in accordance with the Proclamation or other law under which it was detained, but where there is no provision in that law for the disposition of such goods, the importer may abandon the goods to the State of Eritrea or export them. <ul>
+			</ul></li></ul>

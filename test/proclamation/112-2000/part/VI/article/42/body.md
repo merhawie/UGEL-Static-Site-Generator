@@ -1,0 +1,8 @@
+article 42: Stores
+
+<ul>
+			<li>1 - : Any goods for use by or retail sale to persons on a vessel or aircraft engaged in international transport arriving in or departing the territory of the State of Eritrea, including medicines, tobacco products, beer, wines and spirits, fuel, lubricants, spare parts and other equipment whether or not for immediate fitting or use on the conveyance, shall be treated for the purposes of this Proclamation and the Customs Tariff Regulations as stores, and as such, shall be exempt from payment of duties and taxes under such, conditions and under such Customs control as the Minister may direct by Regulations. <ul>
+			</ul></li>			<li>2 - : Any goods for consumption by or sale to passengers or crew shall be exempt from import duties and taxes, provided they remain on board the vessel or aircraft on a direct international voyage, and provided the quantities of such stores are deemed reasonable, having regard for the number of passengers and crew and the length of any stay in the State of Eritrea.<ul>
+			</ul></li>			<li>3 - : Where any vessel or aircraft undergoes repairs in the State of Eritrea, any stores shall be sealed under Customs control and prohibited from sale or consumption unless import duties and taxes have first been paid, such  prohibition to be lifted immediately prior to departure on a direct international voyage to a foreign port. <ul>
+			</ul></li>			<li>4 - : The requirement for a Goods Declaration for all consumable or salable stores and medicines shall be waived provided a stores declaration is accurately maintained on board the conveyance for verification by an officer. <ul>
+			</ul></li></ul>

@@ -1,0 +1,46 @@
+article 11: Environment and, Pollution Control and Safety Measures
+
+<ul>
+			<li>1 - : The Minister shall ensure that all Petroleum Operations comply with the requirements of environmental standards and the relevant laws of Eritrea. Each Contractor, consistent with Article 30 of these Regulations, shall take necessary and adequate steps to:<ul>
+						<li>a - : ensure adequate compensation for injury to Persons or damage to property caused by the effect of Petroleum Operations; and<ul>
+						</ul></li>						<li>b - : minimize Environmental Damage to the contract area.<ul>
+						</ul></li>			</ul></li>			<li>2 - : Where the Minister considers that a Contractor has not acted in accordance with such practices and in particular with the conservation and work practices, he may notify such Contractor in writing accordingly and require him to show cause, within such reasonable time as the Minister shall specify, why he has failed to act in accordance with such practices.<ul>
+			</ul></li>			<li>3 - : If the Minister reasonably determines that any works or installations erected by the Contractor or any operations conducted by the Contractor endanger or may endanger Persons or third-party property, or cause pollution or harm wildlife and marine organisms or the environment to a degree which the Minister deems unacceptable, the Minister may require the Contractor to take remedial measures within a reasonable period established by the Minister, and to repair any damage to the environment. If the Minister deems it necessary, he may also require the Contractor to discontinue Petroleum Operations in whole or in part until the Contractor has taken such remedial measures or has repaired any damage.<ul>
+			</ul></li>			<li>4 - : The measures and methods to be used by the Contractor for the purpose of sub-article (1) (b) of this Article shall be agreed in timely consultation with the Minister upon the commencement of Petroleum Operations or whenever there is a significant change in the scope or method of conducting Petroleum Operations, and shall take into account the international standards applicable in similar circumstances, and the relevant “ Environmental Impact Study” prepared, as provided in sub-article (5) of this Article. The measures and methods, when finally agreed, shall be notified by the Contractor to the Minister and shall be reviewed from time to time in the light of prevailing circumstances.<ul>
+			</ul></li>			<li>5 - : The Contractor shall contract specialists, approved by the Minister, to carry out one or more &quot;Environmental Impact Studies&quot;, the purpose of which shall be:<ul>
+						<li>a - : To determine the prevailing situation at the time of the studies, of the environment, and of the wildlife, marine organisms and human groups in the contract area;<ul>
+						</ul></li>						<li>b - : To establish what could be the impact of carrying out the relevant Petroleum Operations in the contract area; and<ul>
+						</ul></li>						<li>c - : To submit for consideration by the Minister Methods and measures for minimizing Environmental Damage and carrying out Site Restoration activities.
+The first of the aforementioned studies shall be carried out in two parts, a preliminary one which must be ready before starting the field work for a seismographic survey which does not lie wholly offshore, and a later definitive one, applicable for the exploration Drilling stage. The second study shall be completed before starting the development and production operations, and shall be submitted as part of the development work program and work program budget submitted pursuant to Article 18 of these Regulations.<ul>
+						</ul></li>			</ul></li>			<li>6 - : The studies mentioned in sub-article (5) of this Article shall contain proposed environmental guidelines to be followed in order to minimize Environmental Damage, and shall include, but not be limited to, the following, to the extent possible and as appropriate to the respective study:<ul>
+						<li> - : Fuel Storage and Handling;<ul>
+						</ul></li>						<li> - : Use of Explosives;<ul>
+						</ul></li>						<li> - : Camps and Staging Areas;<ul>
+						</ul></li>						<li> - : Liquid and Solid Waste Disposal;<ul>
+						</ul></li>						<li> - : Cultural and Archaeological Sites;<ul>
+						</ul></li>						<li> - : Selection of Drilling Sites;<ul>
+						</ul></li>						<li> - : Terrain Stabilization;<ul>
+						</ul></li>						<li> - : Protection of Freshwater Horizons;<ul>
+						</ul></li>						<li> - : Blowout Prevention Plan;<ul>
+						</ul></li>						<li> - : Flaring During Completion and Testing of Gas &amp; Oil Wells;<ul>
+						</ul></li>						<li> - : Well Abandonment;<ul>
+						</ul></li>						<li> - : Rig Dismantling and Site Completion;<ul>
+						</ul></li>						<li> - : Reclamation for Abandonment; and<ul>
+						</ul></li>						<li> - : Noise Control.<ul>
+						</ul></li>			</ul></li>			<li>7 - : The Contractor shall ensure that:<ul>
+						<li>a - : Petroleum Operations are conducted in an environmentally acceptable and safe manner consistent with generally accepted international petroleum industry practice, and are monitored to ensure the same;<ul>
+						</ul></li>						<li>b - : the pertinent completed Environmental Impact Study (EIS) is made available to his employees and to his Subcontractors to develop adequate and proper awareness of the measures and methods of environmental protection to be used in carrying out the Petroleum Operations; and<ul>
+						</ul></li>						<li>c - : to the extent pertinent, the contracts entered into between the Contractor and his Subcontractors, relating to the Petroleum Operations, shall include the provisions stipulated herein and any established measures and methods for the implementation of each Contractor&#39;s obligation under the relevant Petroleum Contract.<ul>
+						</ul></li>			</ul></li>			<li>8 - : Each Contractor shall prepare and submit prior to conducting Drilling, for review by the Minister, an oil spill and fire contingency plan. Such plan should be maintained during the development and production period. The contingency plan(s) shall be designed to achieve rapid and effective emergency response in the event of an oil spill or fire. In the event of an emergency or accident arising from the Petroleum Operations affecting the environment, the Contractor shall forthwith notify the Minister. In the event of any fire or oil spill, the Contractor shall promptly implement the relevant contingency plan. In the event of any other emergency or accident arising from the Petroleum Operations affecting the environment, the Contractor shall take such action as may be prudent and necessary in accordance with generally accepted international petroleum industry practice in such circumstances.<ul>
+			</ul></li>			<li>9 - : The Contractor shall be liable for any Environmental Damage, without regard to fault, caused by his own activities, as well as the activities of:<ul>
+						<li>a - : his Subcontractors and sub-suppliers of goods and services,<ul>
+						</ul></li>						<li>b - : the employees of the Contractor and his Subcontractors and sub-suppliers. <ul>
+						</ul></li>						<li> - : If there are several Contractors who are parties to the same Petroleum Contract, and one of them has been designated as the operator, claims for compensation shall initially be directed to the operator. If any part of the compensation is not paid by the operator, all Contractors may be held liable, jointly and severally.<ul>
+						</ul></li>						<li> - : The period of prescriptions for claims relating to Environmental Damage shall begin to run as of the time the victim has become aware of the occurrence of the damage and has established the identity of the perpetrator of the damage.<ul>
+						</ul></li>						<li> - : The high court of Eritrea shall have exclusive jurisdiction for all claims for Environmental Damage.<ul>
+						</ul></li>			</ul></li>			<li>10 - : Unless otherwise directed by the Minister, on expiry or termination of a Petroleum Contract or relinquishment of part of the contract area, the Contractor shall:<ul>
+						<li>a - : remove all equipment and installations, structures, plants, appliances and pipelines from the relinquished area or former contract area in a manner agreed with the Minister pursuant to an abandonment plan; and<ul>
+						</ul></li>						<li>b - : perform all necessary Site Restoration activities in accordance with generally accepted international petroleum industry practice, and shall take all other action necessary to prevent hazards to human life or to the property of others or the environment.<ul>
+						</ul></li>						<li> - : To ensure compliance with the requirements of this Article, the Minister may at any time during the currency of a Petroleum Contract, require the Contractor to post a guarantee acceptable to the Minister, or in the alternative, to fund a reserve for future estimated abandonment and Site Restoration costs.<ul>
+						</ul></li>			</ul></li>			<li>11 - : Nothing contained in Article 11 of these Regulations shall be construed to relieve a Contractor from his obligations of indemnification as set out in his Contract.<ul>
+			</ul></li></ul>

@@ -1,0 +1,7 @@
+article 32: Calculation of duty on imported or ex-warehoused
+
+<ul>
+			<li>1 - : In all cases where duty shall be paid, the value for duty shall be the value in local currency based on the prevailing exchange rate in respect of the foreign currency value on the date the Goods Declaration is submitted and in the case of removals from bonded warehouse, the value shall be in the foreign currency at the time of importation converted to local currency at the prevailing exchange rate at the time the goods are ex-warehoused. <ul>
+			</ul></li>			<li>2 - : Where duties are imposed on imported or ex-ware housed goods at a percentage rate, the duties shall be calculated by applying the rate accorded the goods under the schedules to the Customs Tariff Regulations, to the value determined in accordance with this Proclamation. <ul>
+			</ul></li>			<li>3 - : Where the duties are imposed on imported or ex-warehoused goods under schedules to the Customs Tariff Regulations according to a specific quantity or a specific value, such duties shall be deemed to apply in the same proportion to any larger or smaller quantity or value, and to any fractional part of such specific quantity or value. <ul>
+			</ul></li></ul>

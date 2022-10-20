@@ -1,0 +1,12 @@
+article 2: Definitions
+The terms defined in Article 2 of the Communications Proclamation (Proclamation No. 102&#x2F;1998) shall apply to the provisions of theses Regulations, and in these Regulations, unless the context otherwise requires:
+<ul>
+			<li>a - : &quot;co-location&quot; means shared use of property in the form of premises, masts, cable ducts etc., that are used or will be used for siting telecommunications equipment for use in telecommunications activity;<ul>
+			</ul></li>			<li>b - : &quot;interconnection&quot; means exchange of traffic between operators of public telecommunications networks and services that is based on the physical and logical linking of public telecommunications networks and services to enable end-users, regardless of operators, to communicate with any other end-user and to access public telecommunications networks and services provided by others;<ul>
+			</ul></li>			<li>c - : &quot;leased lines&quot; means a telecommunications service consisting of transmission that does not include user-controlled switching;<ul>
+			</ul></li>			<li>d - : &quot;Proclamation&quot; means the Communications Proclamation (Proclamation No 102&#x2F;1998);<ul>
+			</ul></li>			<li>e - : &quot;public payphone&quot; means a service providing access to an operator&#39;s public telephony service;<ul>
+			</ul></li>			<li>f - : &quot;public telephony service&quot; means a public telecommunications service consisting of direct conveyance and switching of real-time voice signals across public switched networks (fixed or mobile networks) enabling an end-user using fixed or mobile terminal equipment to communicate with other end-users via a network termination point;<ul>
+			</ul></li>			<li>g - : &quot;relevant standards&quot; means national standards or specifications established or approved by the Department, or international standards or recommendations established by the ITU (International Telecommunications Union), ISO (International Organisation for Standardization) or IEC (International Electrotechnical Commission); and<ul>
+			</ul></li>			<li>h - : &quot;special net work access&quot; means access to other net work termination points and on other terms than the standardized offers usually made.<ul>
+			</ul></li></ul>

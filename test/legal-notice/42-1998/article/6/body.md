@@ -1,0 +1,7 @@
+article 6: Chlorination System
+If chlorine is used, it shall be added in line by dosing or injection (gas or liquid) prior to intermediate storage to permit sufficient contact time with the water in order to allow the chlorine to react with the organic matter such that the chlorine not combined after 20-30 minutes remains as free residual chlorine available in line to react with whatever contamination present in the piping system (back syphonages, dead ends, for example). The retention tank, shall therefore, have the capacity to retain the water together with the chlorine added for at least 20-30 minutes.
+The cleaning programs for intermediate storage shall be documented and monitored and be demonstrable.
+The products (fish, shrimp, mollusks, etc.) shall not be washed, dipped, glazed, or treated with hyperchlorinated water. It is recommended to use, in the case of an in-plant chlorinating system the same chlorine level as authorized by the legislation in the third country for potable water intended for direct human consumption.
+The chlorine content shall be checked regularly (at least once a day). An alarm system is recommended to be applied to ensure the functioning of the chlorination system.
+<ul>
+</ul>

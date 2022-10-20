@@ -1,0 +1,4 @@
+article 46: Registration of Licenses &amp; Leases 
+The Licensing Authority shall establish a Register in which shall be entered details of each license applied for and the subsequent grant&#x2F;refusal of that license and any relevant conditions. Every instrument under which such license is transferred, assigned, relinquished, encumbered or otherwise dealt with shall be presented to the Licensing Authority for registration within 90 days after the date thereof (or within such further time as the Licensing Authority may allow) or it shall otherwise become null and void. The Licensing Authority shall record in the Register Summary details of every such instrument and also record any other action taken which affects the tenure or conditions of the license. The register shall be open for public inspection at all reasonable times. 
+<ul>
+</ul>

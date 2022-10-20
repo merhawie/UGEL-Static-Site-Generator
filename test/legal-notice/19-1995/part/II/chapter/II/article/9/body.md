@@ -1,0 +1,10 @@
+article 9: Grant and Registration of License
+
+<ul>
+			<li>1 - : If, upon the expiry of the thirty days period specified in article 7 (4) of these regulations, no objection to the application has been filed at its office, the licensing authority shall, following verification of all information submitted in connection with the application grant to the applicant the license of the area sought, or for that part of the area and the minerals which are not reserved or excluded in accordance with article 6 of the proclamation and article 12 of these, regulations, provided, however, that no license shall be granted unless the applicant:<ul>
+						<li>a - : has demonstrated to the licensing authority in the application that he has the necessary financial and the technical resources to meet the obligations relating to the license requested; and<ul>
+						</ul></li>						<li>b - : has proposed or agreed to a work programme and expenditure or development and production programme, as the cause may be, costing not less than the prescribed minimum expenditure commitment and acceptable to the Licensing Authority.<ul>
+						</ul></li>			</ul></li>			<li>2 - : Where an objection to the application has been filed pursuant to Article 8 of these Regulations, the granting of the license shall be deferred pending a decision by Licensing Authority. If the decision of the Licensing Authority is against the submitted objection then a license shall be issued to the applicant subject to sub-article 1 of this Article.<ul>
+			</ul></li>			<li>3 - : If the licensing authority decides to approve the application for a license it shall enter such decision in register kept for that purpose, and notify the applicant in writing.<ul>
+			</ul></li>			<li>4 - : As specified under article 43 (1) of the proclamation the power to issue all types of mining licenses shall be vested in the licensing authority.<ul>
+			</ul></li></ul>

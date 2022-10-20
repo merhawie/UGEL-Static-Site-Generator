@@ -1,0 +1,6 @@
+article 19: Emergency Services
+
+<ul>
+			<li>1 - : Operators of public telephony services shall, provide access to and not require payment from users for calls to the emergency call numbers of emergency services (operated by the fire service police and public health authorities) or to a special emergency call number for text telephone users. The same applies to the transfer of emergency calls between the emergency services and public telecommunications networks and between the individual public telecommunications networks. Emergency calls from a public payphone shall not require the use of coins or cards.<ul>
+			</ul></li>			<li>2 - : Operators of public telephony services shall, provided it is technically feasible without payment enable telephone number and information necessary to locate emergency calls (e.g. the user&#39;s name and address or the caller&#39;s position) to accompany calls to the emergency services, including calls from private telecommunications networks. The same applies where the use has by agreement been allocated an unlisted telephone number.<ul>
+			</ul></li></ul>

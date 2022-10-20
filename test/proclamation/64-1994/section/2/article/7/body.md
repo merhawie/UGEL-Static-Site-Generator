@@ -1,0 +1,10 @@
+article 7: Assessment of Tax
+
+<ul>
+			<li>1 - : The sales tax on goods imported shall be paid in accordance with sub-article 2 of Article 6.<ul>
+			</ul></li>			<li>2 - : Where the tax payer has the obligation to keep books of account and supporting documents, the sales tax shall be assessed by the Inland Revenue Office on the basis of such books of account and supporting documents. <ul>
+			</ul></li>			<li>3 - : The provisions of the Income Tax Proclamation No. 62&#x2F;1994 concerning maintenance of books of account shall mutatis mutandis, apply regarding sales tax. <ul>
+			</ul></li>			<li>4 - : If for any reason the books of account and supporting documents presented by the tax payers are unacceptable to the Inland Revenue Office or if they are not submitted when requested or if no books of account and&#x2F;or supporting documents are maintained the Inland Revenue Office shall assess the tax on the basis of information available to it or on the basis of the wholesale price of such goods in the local market or if the wholesale price of such goods in the local market or if the whole price is unknown in the basis of the wholesale price of equivalent goods; <ul>
+			</ul></li>			<li>5 - : The assessment of sales tax made by the Inland Revenue Office shall be prepared in notification and be delivered to the taxpayer. Delivery of the assessment notification shall be in accordance with the provisions of the income Tax Proclamation No. 62&#x2F;1994. <ul>
+			</ul></li>			<li>6 - : If the tax payer has submitted proper declaration of sales and paid sales tax thereon but does not receive within a period of five years from the date he has given the declaration by the Inland Revenue Office, a notice of assessment different from the amount declared, the sales declared shall be deemed to have been assessed on that sales; however, where the tax payer is proven to have concealed information he may not avail himself of the five year period of limitation and Inland Revenue Office may demand payment of the additional tax due. <ul>
+			</ul></li></ul>

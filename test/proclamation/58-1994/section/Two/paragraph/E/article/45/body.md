@@ -1,0 +1,7 @@
+article 45: Effects of non-compliance with obligations
+
+<ul>
+			<li>1 - : Where a usufructuary mishandles or fails to give due care to the land allotted to him or uses it contrary to the purpose of the land allotment and for an unacceptable purpose, the Land Administrative Body may, in accordance with the gravity of the fault, take measures ranging from warning to fine.<ul>
+			</ul></li>			<li>2 - : Where non-compliance occurs repeatedly or is criminal, the Land Administrative Body may recommend that the Land commission revoke the usufructuary&#39;s right to land.  Notwithstanding the decisions of the Land Administrative Body and the Land Commission, where the usufructuary commits a crime he may be accused at a court with appropriate jurisdiction.<ul>
+			</ul></li>			<li>3 - : Where a usufructuary violates the provisions of Article 23(2) of this proclamation, particularly  when such violation is committed  in an organized manner, the Land Administrative Body shall immediately revoke the usufructuary’s right to land. Where the usufructuary’s acts result in fighting, brawl or other forms of violence, according to the gravity of the consequences thereof,  he shall be criminally sued under the gravest relevant provision of the Transitional Penal Code of Eritrea in the appropriate court. <ul>
+			</ul></li></ul>

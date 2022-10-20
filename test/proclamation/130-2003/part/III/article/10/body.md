@@ -1,0 +1,8 @@
+article 10: Aviation Security 
+
+<ul>
+			<li>1 - : The Director General may prescribe such other rules and regulations requiring such practices, methods, and procedures as the Director General may find necessary to protect persons and property aboard aircraft operating in air transport services against acts of criminal violence and aircraft piracy. <ul>
+			</ul></li>			<li>2 - : For the purposes of protecting passengers, crew members, aircraft and aerodromes and other aviation facilities, preventing unlawful interference with civil aviation and ensuring that appropriate action is taken where that 90 interference occurs or is likely to occur, the Authority may make regulations respecting aviation security. <ul>
+			</ul></li>			<li>3 - : For the purposes of protecting passengers, crew members, aircraft and aerodromes and other aviation facilities and preventing unlawful interference with civil aviation, no operator of an aircraft registered outside Eritrea shall land the aircraft at an aerodrome in Eritrea unless the aircraft and all persons and goods on board the aircraft have been subjected to security measures that are acceptable to the Director General. <ul>
+			</ul></li>			<li>4 - : The Director General may institute, maintain and carry out, at aerodromes, on aircraft and in respect of any aviation facility or service, in lieu of or in addition to the security measures instituted, such security measures as the Director General considers necessary for those purposes.<ul>
+			</ul></li></ul>

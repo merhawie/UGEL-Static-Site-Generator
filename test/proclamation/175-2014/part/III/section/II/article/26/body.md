@@ -1,0 +1,4 @@
+article 26: Prohibition of Tipping-off
+Except where the law prescribes it, financial institution directors, other officers and employees may not disclose or communicate to their customer or a third party that information was provided to FIU or that a report concerning suspected money laundering or financing terrorism has been or would be submitted to FIU or that a money laundering or financing of terrorism investigation is being or has been carried out. Disclosures or communications regarding suspicious money laundering or financing of terrorism between and among directors, other officers and employees of a financial institution shall not, however, be precluded.
+<ul>
+</ul>

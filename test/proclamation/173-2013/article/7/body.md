@@ -1,0 +1,8 @@
+article 7: Penalty 
+Notwithstanding any provisions of law to the contrary, any person or institution who&#x2F;which: 
+<ul>
+			<li>1 - : exchanges foreign currency without a special permit from the Bank of Eritrea; <ul>
+			</ul></li>			<li>2 - : remits illegally in Eritrea in Nakfa foreign currency received abroad; <ul>
+			</ul></li>			<li>3 - : brings into or takes out of Eritrea foreign currency exceeding ten thousand (10,000) US Dollars or its equivalent in other convertible foreign currency without completing and submitting to Customs Officers declaration forms prepared by the Bank of Eritrea; or <ul>
+			</ul></li>			<li>4 - : effects or receives in Eritrea payments relating to commercial transactions or contracts in foreign currency without a special permit from the Bank of Eritrea, shall, upon conviction by the competent civil court, in addition to the confiscation of the money that he&#x2F;she&#x2F;it is found exchanging foreign currency, remitting in Nakfa, bringing into or taking out from Eritrea without filling a declaration form and submitting it to the Customs Officers, or effecting or receiving payments in foreign currency in Eritrea, be punishable with simple imprisonment (ie from 10 days up to three years) or with a fine not exceeding fifty thousand (50,000) Nakfa; provided that the provisions of sub-Article (3) of this Article as well as the penalty of imprisonment herein provided for may not apply to institutions. <ul>
+			</ul></li></ul>

@@ -1,0 +1,8 @@
+article 15: Disclosure of interest
+
+<ul>
+			<li>1 - : When a member of the board of the authority, or a member of a committee formed by the authority, or a member of the staff of the authority, or any other person engaged by the authority, has a pecuniary of other beneficial interest in any matter which is being considered by the board, a committee of the management of the authority, the member shall declare the nature of the interest to the board committee or management of the authority, as the case may be, prior to any consideration of the matter. The member shall ensure that the disclosure is recorded in the minutes of the meeting concerned the member shall neither be present during any deliberations in respect of the matter nor take part in or seek to influence any decision in respect of the matter and may not act in relation to the matter. <ul>
+			</ul></li>			<li>2 - : For the purposes of article sub-article (1) hereof, a person shall be regarded as having a beneficial interest if he or she or a spouse or a member of his or her house hold has a pecuniary or other beneficial interest in the matter being discussed. <ul>
+			</ul></li>			<li>3 - : Where a question arises as to shelter or not a person has a pecuniary or to her beneficial interest in a matter, such a question shall be referred to the board for decision. <ul>
+			</ul></li>			<li>4 - : Where a person fails to disclose a beneficial interest, the minister in the case of a board member or the chief executive office in other cases, may remove that person from office or terminate that persons contract. <ul>
+			</ul></li></ul>

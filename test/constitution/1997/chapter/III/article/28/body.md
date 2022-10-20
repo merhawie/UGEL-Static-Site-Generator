@@ -1,0 +1,6 @@
+article 28: Enforcement of Fundamental Rights and Freedoms
+
+<ul>
+			<li>1 - : The National Assembly or any subordinate legislative authority shall not make any law, and the Executive and the agencies of government shall not take any action that abolishes or abridges the fundamental rights and freedoms conferred by this Constitution, unless so authorized by this Constitution. Any law or action in violation thereof shall be null and void.<ul>
+			</ul></li>			<li>2 - : Any aggrieved person who claims that a fundamental right or freedom guaranteed by this Constitution has been denied or violated shall be entitled to petition a competent court for redress. Where it ascertains that such fundamental right or freedom has been denied or violated, the court shall have the power to make all such orders as shall be necessary to secure for such petitioner the enjoyment of such fundamental right or freedom, and where such applicant suffers damage, to include an award of monetary compensation.<ul>
+			</ul></li></ul>

@@ -1,0 +1,22 @@
+article 60: Free trade zones and export processing zones
+
+<ul>
+			<li>1 - : Free Trade Zones and Export Processing Zones may be established under Customs control pursuant to authority from the Government of the State of Eritrea for a developer to establish such zones and shall operate under such conditions as the Minister may establish by Regulations, but specifically: <ul>
+						<li>a - : access to a Free Trade Zone shall be provided for imported goods, free from payment of all duties and taxes for all goods entering the zone provided that: <ul>
+									<li>i - : in the case of a Commercial Free Trade Zone, operations shall be limited to those necessary for the preservation of imported goods and the usual form of handling to improve their packaging or marketable quality or to prepare them for sale and direct export; and<ul>
+									</ul></li>									<li>ii - : in the case of an Industrial Free Trade Zone, operations shall be limited to processing and manufacturing of goods from articles or materials imported and used or consumed in the processing or manufacturing of goods for direct export; and <ul>
+									</ul></li>						</ul></li>						<li>b - : access to an Export Processing Zone shall be provided for imported goods, including articles and materials, used or consumed directly in the production of goods for direct export by a person or enterprise authorized to carry out that activity in the zone. <ul>
+						</ul></li>			</ul></li>			<li>2 - : Access to a Free Trade Zone or Export Processing Zone shall be provided for imported goods that relate to the activity described in sub-article (1) of this Article free from payment of all duties and taxes, including: <ul>
+						<li>a - : all goods, articles and materials relating to the authorized activity, and in the construction of the facilities within the zone; <ul>
+						</ul></li>						<li>b - : all capital equipment and machinery related to zone activities;<ul>
+						</ul></li>						<li>c - : exemption from all import and export licensing requirements and other restrictions, other than those restrictions imposed on grounds of public morality or order, public security, public hygiene or health, or relating to the protection of patents, trade marks, copyrights and other intellectual property; and <ul>
+						</ul></li>						<li>d - : exemption from all export controls, duties, taxes and other restrictions. <ul>
+						</ul></li>			</ul></li>			<li>3 - : Goods imported into, or produced in a Free Trade Zone or Export Processing Zone which are not exported, may be diverted, in extraordinary circumstances, to use, sale or other disposition in the State of Eritrea only on the prior approval of the Minister and only if the Minister decides that such diversion is in the public interest, and such goods shall be deemed for Customs purposes as goods imported from outside the territory of the State of Eritrea. <ul>
+			</ul></li>			<li>4 - : A Free Trade Zone or Export Processing Zone developer, enterprise or operator, as the case may be, shall be responsible for: <ul>
+						<li>a - : lodging a Goods Declaration relating to the importation, or delivery on drawback of goods intended for delivery to a zone, maintaining all books and records on all goods entered into, used in, and taken from a zone as the Minister may prescribe; <ul>
+						</ul></li>						<li>b - : lodging a Goods Declaration for home use on all goods which are not exported from the State of Eritrea and meeting any obligations with respect to all restrictions and requirements pertaining to such imported or manufactured goods subject to the Minister&#39;s approval pursuant to sub-article (3) of this Article; <ul>
+						</ul></li>						<li>c - : lodging a Goods Declaration for export for all goods exported from a zone;<ul>
+						</ul></li>						<li>d - : providing such office accommodation, signs, security and other facilities as the Minister shall consider necessary for an officer to carry out the duties of Customs required within the zone; <ul>
+						</ul></li>						<li>e - : providing suitable markings defining the area of the zone which is under the control of the developer, enterprise or operator, and the other place or places approved by the Minister for persons or goods entering or leaving the zone; and <ul>
+						</ul></li>						<li>f - : ensuring that goods shall not be brought into the zone except to an authorized developer, enterprise or operator. <ul>
+						</ul></li>			</ul></li></ul>

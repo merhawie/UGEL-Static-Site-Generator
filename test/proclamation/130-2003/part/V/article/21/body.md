@@ -1,0 +1,9 @@
+article 21: Orders, Rules and Regulations 
+
+<ul>
+			<li>1 - : Except in emergency situations, all orders, rules, and regulations of the Authority shall take effect within such reasonable times as the Director General may specify, and shall continue in force until a further order, rule, or regulation, or for a specified period of time, as shall be prescribed in the order, rule, or regulation. <ul>
+			</ul></li>			<li>2 - : Whenever the Director General is of the opinion that an emergency requiring immediate action exists with respect to safety in civil aviation, the Director General shall have the power, either upon complaint or the Director General’s initiative without complaint, at once, if the Director General so orders, without answer or other form of pleading by the interested person or persons, and with or without notice, hearing or the making or filing of a report, to make such just and reasonable orders, rules, or regulations as may be essential in the interest of safety in civil aviation to meet such emergency; provided that the Director General shall immediately thereafter initiate proceedings relating to the matter giving rise to any such order, rule, or regulation. <ul>
+			</ul></li>			<li>3 - : The Director General shall have the power to suspend or modify orders, rules and regulations upon such notice and in such manner as the Authority shall find proper. <ul>
+			</ul></li>			<li>4 - : The Director General may grant exemptions from the requirements of observing any rule or regulation prescribed under this Proclamation if the Director General finds such action would be in the public interest. <ul>
+			</ul></li>			<li>5 - : Except as provided in paragraph (4) hereof, the Director General may not grant exemptions from the requirements of this Proclamation.<ul>
+			</ul></li></ul>

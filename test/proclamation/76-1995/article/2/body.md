@@ -1,0 +1,4 @@
+article 2: Admission to Membership
+The Government of Eritrea is hereby authorized on behalf of Eritrea to accept membership in the International Finance Corporation (&quot;the Corporation&quot;) and in the Multilateral Investment Guarantee Agency (&quot;the Agency &quot;), by accepting the Articles of Agreement of the Corporation as amended, and the Convention of the Agency, and the terms and conditions specified in the Resolutions of the respective Boards of Governors of the Corporation and the Agency, relating to membership of Eritrea in these organizations (the text of which are given in Annexes I and II of this Proclamation). 
+<ul>
+</ul>

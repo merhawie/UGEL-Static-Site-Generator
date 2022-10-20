@@ -1,0 +1,10 @@
+part X: Miscellaneous Provisions
+
+<ul>
+			<li>33 - Penalties for failure to comply with order of Committee: Any person who, without lawful excuse, contravenes or fails to comply with an order, notice or direction of the Legal Committee and the Disciplinary Committee shall be guilty of an offence and liable to imprisonment for a term not exceeding six months or to a fine not exceeding Birr 2000 (two thousand) or to both and, in the case of an advocate, shall, alternatively or in addition, be liable to proceedings under Article 24 of this Proclamation.<ul>
+			</ul></li>			<li>34 - Immunity of Members of the Committees: No member of the Legal Committee or the Disciplinary Committee shall be criminally or civilly liable to for or in respect of any act or thing done or omitted to be done, ordered to be done or omitted, by him in good faith, in the performance or intended or purported performance of any of the powers or duties conferred upon him under or by virtue of this Proclamation.<ul>
+			</ul></li>			<li>35 - Powers to issue regulations: The Minister of Justice may issue regulations with regard to:<ul>
+			</ul></li>			<li>36 - Savings of other laws: Nothing in this Proclamation or any regulations issued thereunder shall affect the provisions of any other law empowering representation in relation to any legal proceedings.<ul>
+			</ul></li>			<li>37 - Repeals: All laws, proclamations, regulations and directives dealing with matters provided for in this Proclamation are hereby repealed and replaced, and all practising certificates issued previously by the Ministry of Justice shall cease to have force after ninety (90) days from the coming into force of this Proclamation. New practising certificates shall be issued to applicants in accordance with the provisions of this Proclamation as of the date of entry into force of this Proclamation.<ul>
+			</ul></li>			<li>38 - Entry into Force: This Proclamation shall enter into force as of the date of its publication in the Gazette of Eritrean Laws. Done at Asmara, this 30th day of April, 1996. Government of Eritrea.<ul>
+			</ul></li></ul>

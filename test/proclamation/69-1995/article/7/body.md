@@ -1,0 +1,10 @@
+article 7: Revenue Expenditure  
+Revenue expenditure shall be comprised of all costs and expenses incurred after the date of commencement of production which are not capital expenditure, and shall include the following:
+<ul>
+			<li>1 - : cost of geological, geochemical and geophysical surveys and studies and related services carried out anywhere in Eritrea in the context of mineral exploration and mining operations in general;<ul>
+			</ul></li>			<li>2 - : cost of production, including extraction, storage, treatment, transport and sale of minerals;  <ul>
+			</ul></li>			<li>3 - : cost of restoration of land within a license area and an area covered by a lease, including the cost of filling, closing or blocking or generally rendering safe all installations used in mining operations;<ul>
+			</ul></li>			<li>4 - : general administrative expenses and management and professional commissions and services, lease licensing and other fees incurred within and outside of Eritrea for mining operations, provided that the amounts expended were for services actually rendered or property actually provided and correspond to amounts normally paid by other persons in similar transactions;  <ul>
+			</ul></li>			<li>5 - : interest payments on loans used exclusively to finance mining operations, excluding those to prospect and explore, provided that the interest rate is fixed on a reasonable commercial basis and reflects that which would normally be paid by another person with a similar credit rating and equity: debt ratio as the tax payer in question for similar financing and that the loan has been previously approved on this basis by the Licensing Authority;<ul>
+			</ul></li>			<li>6 - : all fees, rentals, royalties and other taxes paid to the Government, except taxes payable pursuant to this Proclamation.<ul>
+			</ul></li></ul>

@@ -1,0 +1,7 @@
+article 18: Mineral Water and Geothermal Deposits 
+
+<ul>
+			<li>1 - : A legitimate occupant of land may produce and use for non-commercial purpose, without charge and with prior notification to the Licensing Authority, mineral water from the area he occupies, provided that the area is not reserved or excluded pursuant to Article 6 of this Proclamation and, provided further, that he does not disturb or damage the adjacent occupants&#39; land or property. <ul>
+			</ul></li>			<li>2 - : A mining license granted for the extraction of mineral water may specify the amount and rate of production, which shall generally be limited to that which permits the renewal of the water aquifer, and the horizon or depth from which the water may be extracted. A license for brines may specify conditions of production and of extraction and disposal of minerals produced and of the use and disposal of the water remaining. <ul>
+			</ul></li>			<li>3 - : A mining license granted for a geothermal deposit may limit the volume of water and the calorific content which may be extracted, it may also fix conditions on the extraction and disposal of by- products and on the production, use and reinjection of water in order to preserve the deposit. <ul>
+			</ul></li></ul>

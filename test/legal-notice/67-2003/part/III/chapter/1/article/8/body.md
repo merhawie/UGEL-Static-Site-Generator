@@ -1,0 +1,8 @@
+article 8: General conditions of hygiene applicable to the preparation and&#x2F;or processing areas and equipment
+The following shall be applied:
+<ul>
+			<li>a - : floors, walls and partitions, ceilings or roof linings, equipment and instruments used for working on fishery products shall be kept in a satisfactory state of cleanliness and repair, so that they do not constitute a source of contamination;<ul>
+			</ul></li>			<li>b - : rodents, insects and any other vermin shall be systematically exterminated from the premises or the equipment. Rodenticides, insecticides, disinfectants and any other potentially toxic substance shall be stored in a premise or cupboard that can be locked and their use shall not present any risk of contamination to the products or have adverse effects on the machinery and equipment. The Competent Authority should approve any chemical used on board;<ul>
+			</ul></li>			<li>c - : working areas, instruments and working equipment shall be used only for fishery products; and<ul>
+			</ul></li>			<li>d - : ) drinking water, within the meaning of The Potable Water Regulations in Fishery Product activities, Legal Notice No. 68&#x2F;2003, or clean seawater shall be used for all purposes. However, by way of an exception, non-drinking water may be used for steam production, fire fighting and as a cooling water, provided that the pipes installed for these purposes preclude the use of such water for other purposes and present no risk of contamination to the products.<ul>
+			</ul></li></ul>

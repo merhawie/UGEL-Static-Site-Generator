@@ -1,0 +1,9 @@
+article 21: Exemption from Customs Duties and Levies
+
+<ul>
+			<li>1 - : A Contractor and a Subcontractor shall be entitled to import into Eritrea any and all drilling, geological, geophysical, production, treating, processing, transportation and other machinery and equipment necessary in Petroleum Operations, including aircraft, vessels, vehicles and other transportation equipment and parts therefor (other than sedan car and fuel therefor), fuels chemicals, lubricants, films, seismic tapes, house trailers, office trailers, disassembled prefabricated structures and other materials necessary for Petroleum Operations free of import duties, taxes, levies and imposts of any kind.<ul>
+			</ul></li>			<li>2 - : Expatriate employees of a Contractor and a Subcontractor shall be entitled to import into Eritrea household goods and personal effects, including one sedan car, free of import duties, taxes, levies and imposts of any kind, in accordance with prevailing regulations.<ul>
+			</ul></li>			<li>3 - : All items imported under sub- Article (1) and (2) of this Article and taken out of Eritrea shall be exempt from export duties and other taxes levied on exports; provided, however, that if these items 9 are disposed of within Eritrea, the Contractor, Subcontractor or their expatriate employees, as the case may be, shall pay customs duties and levies in accordance with the applicable laws.<ul>
+			</ul></li>			<li>4 - : The Contractor shall be entitled to export Petroleum produced free of export duties, taxes or imposts of any kind.<ul>
+			</ul></li>			<li>5 - : The relevant Petroleum Agreement may include additional provisions concerning the matters addressed in this Article 21.<ul>
+			</ul></li></ul>

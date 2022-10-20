@@ -1,0 +1,7 @@
+{{type}} {{number}}: {{title}}
+{{content}}
+<ul>
+{{#sub}} {{! Within the context of the current item }}
+		{{> list}} {{! Recursively render the partial }}
+{{/sub}}
+</ul>

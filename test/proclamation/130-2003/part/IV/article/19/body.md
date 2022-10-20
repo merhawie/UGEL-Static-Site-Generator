@@ -1,0 +1,13 @@
+article 19: Approval Foreign Air Operator 
+
+<ul>
+			<li>1 - : No foreign air operator shall engage in Commercial Air Transport within Eritrea unless there is in force a permit issued by the Director General. <ul>
+			</ul></li>			<li>2 - : The Director General is empowered to issue such a permit if the Director General finds: <ul>
+						<li>a - : That the applicant is fit, willing, and able properly to perform international Commercial Air Transport and to conform to the provisions of this Proclamation and the rules, regulations, and requirements of the Director made pursuant to the Proclamation; and <ul>
+						</ul></li>						<li>b - : Either that the applicant is qualified, and has been designated by its government, to perform international Commercial Air Transport under the terms of an agreement with Eritrea, or that such transportation will be in the public interest. <ul>
+						</ul></li>			</ul></li>			<li>3 - : Application for a permit shall be made in writing to the Director General and shall be in such form and contain such information as the Director General shall require. <ul>
+			</ul></li>			<li>4 - : Authority to Modify, Suspend or Revoke <ul>
+						<li>a - : The Director General may alter, amend, modify, or suspend any such permit, in whole or in part, for failure to comply with any provision of this title or any order, rule, or regulation issued hereunder or any term, condition, or limitation of such permit. <ul>
+						</ul></li>						<li>b - : Any interested person may file with the Director General a protest or memorandum in support of or in opposition to the alteration, amendment, modification, suspension, or revocation of a permit pursuant to paragraph (4)(a) of this Article. <ul>
+						</ul></li>			</ul></li>			<li>5 - : The Director General may issue a permit to the applicant for such permit only if the applicant complies with regulations and orders of the director General governing the filing of an insurance policy or self-insurance plan approved by the Director General. The policy or plan must be sufficient to pay, not more than the amount of the insurance, for bodily injury to, or death of, an individual or for loss of, or damage to, property of others, resulting from the operation or maintenance of the aircraft under the certificate. A permit does not remain in effect unless the foreign air operator complies with this Article.<ul>
+			</ul></li></ul>

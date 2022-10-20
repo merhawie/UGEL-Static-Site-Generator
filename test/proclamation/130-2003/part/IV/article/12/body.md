@@ -1,0 +1,8 @@
+article 12: Air Operator Certificate 
+
+<ul>
+			<li>1 - : An operator or a person must possess, as appropriate, the relevant operating certificate issued or validated by the Director General if the operator or person wishes to engage in air transport services and general aviation operations in Eritrea. <ul>
+			</ul></li>			<li>2 - : The Director General is hereby authorized to issue air operator certificates and to establish minimum safety standards for the operation of the air operator to which any such certificate is issued. <ul>
+			</ul></li>			<li>3 - : Any person desiring to operate as an air operator and who is a citizen of Eritrea may file with the Director General an application for an air operator certificate. If the Director General finds, after thorough investigation, that such person is properly and adequately equipped and has demonstrated the ability to conduct a safe operation in accordance with the requirements of this Proclamation and the rules, regulations, and standards prescribed there under, the Director General shall issue an air operator certificate to such person. <ul>
+			</ul></li>			<li>4 - : The Director General is authorized, in the discharge of certification and inspection responsibilities, to validate the actions of the civil authority of another State in lieu of taking specific action. The Director General shall ensure that, when validation is based on the actions of another country, there is no information to indicate that the authority of that country does not meet its obligations under the ICAO Chicago Convention regarding certification and ongoing validation of its air operators.<ul>
+			</ul></li></ul>

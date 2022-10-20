@@ -1,0 +1,6 @@
+article 27: Return of the Snipes Certificate to the Registrar
+
+<ul>
+			<li>1 - : Where a registered ship is either actually or constructively lost, taken by an enemy, burnt or broken up, or sold to a person not qualified to own an Eritrean ship, the owner of the ship or of a share therein in whose name the ship is registered shall, immediately upon being informed of the event, give notice thereof to the Registrar at the port of registration of the ship or to the Consular Officer, as the case may be, and if available return the certificate to the Registrar or consular officer. The Consular Officer shall immediately pass the information to the Registrar who shall make an entry thereof in the register and the registration of the ship in the register shall be considered cancelled, except for unsatisfied mortgage, liens and other rights in rem.<ul>
+			</ul></li>			<li>2 - : Where any owner or master of a ship fails, without reasonable cause, to comply with the requirements of sub-article (1) hereof, he shall be guilty of an offence, and upon conviction, pay a fine not exceeding 10,000 Birr.<ul>
+			</ul></li></ul>

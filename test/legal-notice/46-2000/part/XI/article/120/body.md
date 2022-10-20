@@ -1,0 +1,6 @@
+article 120: Power to detain a vessel 
+
+<ul>
+			<li>1 - : Where the Department or the Eritrean Defence Forces has reasonable cause to believe that a marine pollutant has been discharged from a vessel within Eritrean coastal and territorial waters, the Department or the Eritrean Defence Forces may cause the vessel to be detained in Eritrea until the Owner or agent of the vessel deposits with the Department or Eritrean Defence Forces a sum of money or furnishes such security which would, in the opinion of the Department or the Eritrean Defence Forces, be adequate to meet the owner&#39;s liability and the costs incurred in removing the marine pollutant from the coastal and territorial waters of Eritrea. <ul>
+			</ul></li>			<li>2 - : The Department shall have the right to detain a ship which has caused damage to persons, quays or installation, or equipment or has failed to pay any other lawful charges until compensation of the lawful charges are paid or security is given by the Owner or Master or agent of the ship. <ul>
+			</ul></li></ul>

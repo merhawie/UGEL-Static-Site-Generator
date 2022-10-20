@@ -1,0 +1,17 @@
+article 2: Definitions
+For the purposes of this Proclamation: 
+<ul>
+			<li>1 - : &quot;Contractor&quot; means any Person with whom the Government establishes a Petroleum Agreement; <ul>
+			</ul></li>			<li>2 - : “Crude oil&quot; means all hydrocarbons regardless of specific gravity which are produced in liquid state at atmospheric pressure at the well head or gas&#x2F; oil separator including asphalt and ozokerites or which are extracted from Natural Gas, including distillate and condensate; <ul>
+			</ul></li>			<li>3 - : &quot;Government&quot; means the Government of Eritrea and its administrative divisions, and all the officials in any capacity who conduct the business of or exercise authority within the Territory of Eritrea; <ul>
+			</ul></li>			<li>4 - : &quot;Minister&quot; or &quot;Ministry&quot; means the Minister of Energy and Mines and the Ministry of Energy and Mines respectively, or any successors in jurisdiction thereto; <ul>
+			</ul></li>			<li>5 - : &quot;Natural Gas&quot; shall mean all hydrocarbons which at atmospheric conditions of temperature and pressure are in a gaseous phase, including wet mineral gas, dry mineral gas, wet gas and residue gas remaining after the extraction, processing or separation of liquid hydrocarbons from wet gas, as well as non-hydrocarbon gas or gases produced in association with liquid or gaseous hydrocarbons; <ul>
+			</ul></li>			<li>6 - : &quot;Person&quot; means any natural or juridical person; <ul>
+			</ul></li>			<li>7 - : &quot;Petroleum&quot; shall mean all natural, organic substances composed of carbon and hydrogen called Petroleum, including Crude Oil and Natural Gas, and all other mineral substances, products, byproducts and derivates that are found in conjunction with the same; <ul>
+			</ul></li>			<li>8 - : &quot;Petroleum Deposit &quot; means an accumulation of Petroleum in a geological unit limited by the rock characteristics by structural or stratigraphic boundaries, contact surface between Petroleum and water in the formation, or a combination of these, so that all the Petroleum comprised is in pressure communication through liquid or gas; <ul>
+			</ul></li>			<li>9 - : &quot;Petroleum Agreement&quot; means a contract or other written arrangement between the Government and Contractor to conduct Petroleum Operations; <ul>
+			</ul></li>			<li>10 - : &quot;Petroleum Operations&quot; means Exploration Operations and Development and Production Operations, including without limitation, all operations related to , extraction, production, field separation, treatment (excluding refining), transportation, storage, sale or disposition of Petroleum to the delivery point, environmental protection, plugging wells and abandoning production facilities. The operations shall not include transportation beyond the Delivery Point, nor any process of refining or any handling of Petroleum which has been treated in a refinery or liquefaction plant or Natural Gas treatment plant; <ul>
+			</ul></li>			<li>11 - : &quot;State&quot; means the state of Eritrea; <ul>
+			</ul></li>			<li>12 - : &quot;Subcontractor&quot; means any Person with whom a Contractor establishes a contractual relationship for the provision of services required for performance under a Petroleum Agreement; <ul>
+			</ul></li>			<li>13 - : &quot;Territory of Eritrea&quot; means its land territory, internal waters, islands, archipelogic waters, territorial sea and its beds and sub-soils, exclusive economic zone and continental shelf;<ul>
+			</ul></li></ul>

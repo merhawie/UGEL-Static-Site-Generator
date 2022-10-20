@@ -1,0 +1,6 @@
+article 18: Directory Information
+
+<ul>
+			<li>1 - : Operators of public telephony services shall provide directory information containing their users&#39; names, addresses and assigned telephone numbers. Public payphones shall be listed with their address. Users shall be entitled to check the information and request that any errors be rectified.<ul>
+			</ul></li>			<li>2 - : Where directory enquiry services and telephone directories are offered to the public, names, addresses and assigned telephone numbers shall be given on non-discriminatory terms except where a user has reserved himself against such information being made available to the public (unlisted telephone number). Operators of directory enquiry services and telephone directories shall ensure that directory enquiry registers are kept up-to-date and that information is not provided in contravention of secrecy requirements. Access to information about other operators&#39; user shall be agreed upon between the parties.<ul>
+			</ul></li></ul>

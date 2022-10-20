@@ -1,0 +1,8 @@
+article 27: Work Programmes and Expenditure
+
+<ul>
+			<li>1 - : The work programme and expenditure proposed by the applicant for an exploration license shall correspond to an appropriate level of operations, taking into account the area for which the application is applied, the type of minerals and the potential nature of operations and eventual deposits which may be concerned, and meet minimum work and expenditure requirements.<ul>
+			</ul></li>			<li>2 - : If the work programme and expenditure proposed meet the specified requirements, as stated in sub-article 1 of the Article the Licensing Authority shall approve them. If the Licensing Authority believes that the work programme is technically inadequate it shall so notify the applicant, stating the reasons for its opinion to improve the work programme.<ul>
+			</ul></li>			<li>3 - : If the licensee fails in any year to fulfill the minimum work programme or expenditure obligation, an amount equal to such unfulfilled obligation should be immediately paid to the Government in order to satisfy the deficiency as specified by directive. The Licensing Authority may take such amount from any guarantee provided by the licensee.<ul>
+			</ul></li>			<li>4 - : If the licensee performs work or incurs expenditure in any year in excess of that for which he is obligated, such excess shall be credited towards expenditure obligations, for the next succeeding annual period, provided that at least a minimum agreed work programme and related expenditure is carried out in the succeeding year, if applicable.<ul>
+			</ul></li></ul>

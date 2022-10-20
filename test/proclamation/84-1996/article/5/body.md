@@ -1,0 +1,12 @@
+article 5: Power and duties of the Commission 
+The Commission shall have all power necessary for the achievement of its purposes. With out limiting the generality of the fore going; the Commission shall have the following Power and Duties.
+<ul>
+			<li>1 - : to conduct legal historical, technical or other study or research and consolidate information pertaining to or relevant to the historical and status of the Zuqar-Hanish Archipelagos and the maritime boundaries of Eritrea, and for this purpose, to consult with the appropriate Eritrea government and private institutions, friendly states and their ambassadors, the United Nations, the Organization of Africa Unity and other institutions and individuals.<ul>
+			</ul></li>			<li>2 - : to appear the case establishing Eritrea’s sovereignty over the Zukar-Hanish Archipelagos and the just delineation of Eritrea’s maritime boundaries with Yemen: <ul>
+			</ul></li>			<li>3 - : to appear and fully represent Eritrea interests and rights jointly and or severally, as delegation constituting part thereof, in any official or unofficial negotiation, talks, dialogue, interaction and&#x2F;or litigation before any on, group of persons, body corporate, global, regional or sub regional organization or arrangement, including but not limited to the International Court of Justice, pertaining to Eritrea’s sovereignty over the disputed Zukar-Hanish Archipelagos and the delineation of Eritrea’s maritime boundaries with Yemen.<ul>
+			</ul></li>			<li>4 - : based on budget approved by the President of the state of Eritrea, to employed or use the services of local and &#x2F;or foreign expertise or consultancy required for attaining the purposes mentioned in Article 4 here in above; <ul>
+			</ul></li>			<li>5 - : to enter into contracts <ul>
+			</ul></li>			<li>6 - : to buy, sell, own and&#x2F;or lease any movable or immovable property as may be necessary for the achievement of its purpose and for the effective carrying out of its activities;<ul>
+			</ul></li>			<li>7 - : to sue and be sued in its own name; and<ul>
+			</ul></li>			<li>8 - : to discharge such other functions and duties as may be necessary for or incidental to the achievement of its purposes. <ul>
+			</ul></li></ul>

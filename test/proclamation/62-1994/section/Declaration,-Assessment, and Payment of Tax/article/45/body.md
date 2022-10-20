@@ -1,0 +1,4 @@
+article 45: 
+If a tax payer has submitted a proper declaration of income, and paid income tax thereon but doesn’t receive within a period of five (5) years from the date of the receipt of the declaration by the Inland Revenue Office, a notice of assessment different from the amount of tax declared, the income declared shall be deemed approved and the tax shall be deemed to have been assessed on that income; however, where the tax payer is proven to have concealed information he may not avail himself of the five (5)year period of limitation and the inland revenue office may demand payment of the additional tax due. 
+<ul>
+</ul>

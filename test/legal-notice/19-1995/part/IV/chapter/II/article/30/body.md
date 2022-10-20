@@ -1,0 +1,10 @@
+article 30: Health, Safety and Environmental Protection
+
+<ul>
+			<li>1 - : The licensee shall provide his agents and employees with appropriate work clothing and protective equipment and shall ensure that they are properly trained or otherwise qualified for the work.<ul>
+			</ul></li>			<li>2 - : The licensee shall also provide appropriate health and medical facilities, commensurate with the level and nature of operations and he shall follow all necessary procedures for the safe and prudent transport, storage, handling and use of explosive and chemicals.<ul>
+			</ul></li>			<li>3 - : The licensee shall immediately notify the Licensing Authority of any act or occurrence which has resulted in loss of life or serious injury to any person or which may jeopardize any property, the environment or operations and shall immediately take such steps as are necessary to mitigate the impact of such situation.<ul>
+			</ul></li>			<li>4 - : Prior to expiration or termination of the license, the licensee shall fill, close, block or otherwise render safe all tunnels, pits and other installations of a potentially dangerous nature.<ul>
+			</ul></li>			<li>5 - : The holder of a mining license shall progressively restore or reclaim the land covered by … license and, if applicable, a lease so that, prior to termination of the license, the area has been completely restored or reclaimed for beneficial future use, except if such progressive restoration or reclamation is not feasible as determined by the Licensing Authority approves otherwise.<ul>
+			</ul></li>			<li>6 - : The holder of an artisanal mining license shall take all environmental protection measures commensurate to his operations; in particular he shall fill pits and plant trees and shall not be allowed to use mercury or similar materials in his operation.<ul>
+			</ul></li></ul>

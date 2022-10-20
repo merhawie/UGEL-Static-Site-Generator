@@ -1,0 +1,8 @@
+article 48: Liability for duties and taxes rests with the operator 
+
+<ul>
+			<li>1 - : The operator of a transit warehouse, container depot, bonded warehouse or duty free shop shall be immediately liable for all duties and taxes levied under this Proclamation or any other law of the State of Eritrea pertaining to Customs on goods that have been received therein, unless the operator can prove to the satisfaction of an officer  that the goods are still in the transit warehouse, container depot, bonded warehouse or duty free shop, have been declared and accounted for pursuant to Article 15 hereof, or have been otherwise released by an officer. <ul>
+			</ul></li>			<li>2 - : The rates of duties payable on goods under sub-article (1) of this Article shall be:<ul>
+						<li>a - : where goods have been received in a transit warehouse or container depot, the rates applicable to such goods at the time they are declared under Article 15 hereof, and <ul>
+						</ul></li>						<li>b - : where the goods have been received in a Customs bonded warehouse or duty free shop, in the case of missing &#x60;roods the rates applicable at the time the goods were declared for such purpose and entered therein, and in the case of goods lawfully removed from the bonded warehouse or duty free shop for consumption in the State of Eritrea, the rate applicable on the date of Customs release. <ul>
+						</ul></li>			</ul></li></ul>

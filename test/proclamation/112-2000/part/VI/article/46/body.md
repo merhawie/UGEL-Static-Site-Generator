@@ -1,0 +1,7 @@
+article 46: Prohibited and restricted imports and exports
+
+<ul>
+			<li>1 - : The importation into the State of Eritrea, the exportation from the State of Eritrea, the storage or transportation of certain goods as specified in the Customs Tariff Regulations or other laws of the State of Eritrea shall be prohibited and any goods in contravention of this sub article shall be seized. <ul>
+			</ul></li>			<li>2 - : The importation into the State of Eritrea, the exportation from the State of Eritrea, the storage or transportation of certain goods as specified in the Customs Tariff Regulations or other laws of the State of Eritrea shall be prohibited unless the importer or exporter obtains the required permit, license, certificate or other document from the concerned authority that is validly in force at the relevant time and any goods imported without such documentation shall be detained pending compliance, and ultimately seized if the documentation is not supplied within 30 days. <ul>
+			</ul></li>			<li>3 - : The costs associated with the seizure, detention, storage and disposal of goods pursuant to this Article shall rest with the owner of such goods and&#x2F;or with the operator of the conveyance of the goods, and any such costs incurred by the Customs may be recovered by the Director General in a court of competent jurisdiction. <ul>
+			</ul></li></ul>

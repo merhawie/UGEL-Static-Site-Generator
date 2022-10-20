@@ -1,0 +1,8 @@
+section II: Reporting of Suspicions
+
+<ul>
+			<li>23 - Obligation to Report Suspicious Activities: Financial institutions that have reasonable grounds to suspect that property constitutes offences of money laundering or is linked or to be used for the financing of terrorism shall submit promptly a report setting forth their suspicions to FIU. This obligation shall apply to attempted transactions as well.<ul>
+			</ul></li>			<li>24 - Cash Transaction Reporting: Financial institutions shall report to FIU cash transactions exceeding USD 10,000 or its equivalent in other convertible currencies, whether conducted as a single transaction or several transactions that appear to be linked.<ul>
+			</ul></li>			<li>25 - Postponing of Transactions: <ul>
+			</ul></li>			<li>26 - Prohibition of Tipping-off: Except where the law prescribes it, financial institution directors, other officers and employees may not disclose or communicate to their customer or a third party that information was provided to FIU or that a report concerning suspected money laundering or financing terrorism has been or would be submitted to FIU or that a money laundering or financing of terrorism investigation is being or has been carried out. Disclosures or communications regarding suspicious money laundering or financing of terrorism between and among directors, other officers and employees of a financial institution shall not, however, be precluded.<ul>
+			</ul></li></ul>

@@ -1,0 +1,10 @@
+article 29: Employment and Training
+
+<ul>
+			<li>1 - : The licensee shall promote the employment of Eritrean nationals as specified in Article 25 (1) of the proclamation. If an Eritrean national cannot be found with qualifications and skills suitable to fill a position the licensee may employ a qualified foreign national. The Licensing Authority shall assist the licensee in obtaining all necessary Government permissions for the entry and sojourn of foreign nationals and their dependents in Eritrea.<ul>
+			</ul></li>			<li>2 - : The level of employment and training shall be commensurate with the nature and extent of operations and shall not impair their efficient and economic conduct.<ul>
+			</ul></li>			<li>3 - : The holder of an exploration license shall submit annually to the Licensing Authority, within thirty days prior to the end of each calendar year, the programme for employment and training to be followed during the following year. Such programme shall not, unless provided otherwise by agreement.<ul>
+			</ul></li>			<li>4 - : The holder of a mining license shall submit annually to the Licensing Authority, within sixty days prior to the end of each calendar year, the programme for employment and training to be followed during the following year.<ul>
+			</ul></li>			<li>5 - : The Licensing Authority shall notify the licensee, within thirty days after the receipt of the proposed programme, if it believes the programme submitted to it pursuant to sub-article 4 of this Article is materially inadequate stating the reasons for its opinion to improve the programme.<ul>
+			</ul></li>			<li>6 - : All employment and training programmes submitted pursuant to this article shall be detailed by category of employee; unskilled, skilled, clerical, technical and management.<ul>
+			</ul></li></ul>

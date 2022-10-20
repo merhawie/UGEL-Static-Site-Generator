@@ -1,0 +1,8 @@
+article 117: Limitation of liability of the port management 
+The liability of the port management resulting from loss of or damage to goods is limited to an amount equivalent to 835 units of account per package or the shipping unit or 2.5 units of account per kilogram of the gross weight of the goods lost or damage, whichever is the higher. 
+<ul>
+			<li>1 - : For the purpose of calculating which amount is the higher in accordance with sub-article (1) of this Article, the following rules shall apply: <ul>
+						<li>a - : where a container, pallet or similar article of transport is used to consolidate goods, the package or other shipping units enumerated in the bill of lading, as packed in such article of transport, are deemed, packages or shipping units. Except as aforesaid, the goods in such article of transport are deemed one shipping unit; and <ul>
+						</ul></li>						<li>b - : in the case where the article of transport itself too has been lost or damaged that article of transport shall be considered one shipping unit. <ul>
+						</ul></li>			</ul></li>			<li>2 - : The unit of account referred to in sub-article (1) of this Article is the Special Drawing Right as defined by the International Monetary Fund. The amount mentioned in sub-article (1) hereof is to be converted into the national currency according to the value of such currency in relation to the Special Drawing Right at the date of completion of discharging operations. <ul>
+			</ul></li></ul>

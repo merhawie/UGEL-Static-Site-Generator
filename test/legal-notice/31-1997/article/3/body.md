@@ -1,0 +1,19 @@
+article 3: General
+
+<ul>
+			<li>1 - : To ensure growth and development in urban and other areas, working with master plan being acceptable, considering time and other factors, it may be worked with principle that conform to using of flexible modular growth planning.<ul>
+			</ul></li>			<li>2 - : Land shall be allocated, according to plan, for tiesa, agricultural usufruct or leasehold. To ensure these
+rights, right holders shall be given by the Ministry of Land, Water and Environment allocation certificate&#x2F;lease agreement which form an integral part of this regulation and is attached herewith.<ul>
+			</ul></li>			<li>3 - : Subject to Article 45 of Land Proclamation, land allocated to right holders shall be utilized without delay. If the holders&#39; right is terminated due to the failure to utilize the land without good cause, holders shall vacate the land at their own expense.<ul>
+			</ul></li>			<li>4 - : To prevent allocation of land to holders with sole aim of holding land idle, the size of land to be allocated shall be proportionate to the planned aim.<ul>
+			</ul></li>			<li>5 - : Constructing a dwelling house within land allocated for business shall not be permitted. Nonetheless, where the business is hotel or housing real estate, such restriction shall not be applicable. In buildings of stories, there may be stories and rooms for dwelling as well as business.<ul>
+			</ul></li>			<li>6 - : Tax shall be paid for agricultural usufruct. Annual rent shall be paid for leasehold until the expiry of the lease duration. Lease agreement may be renewed upon the expiry of its duration.<ul>
+			</ul></li>			<li>7 - : There shall be very simple and not time consuming process of screening and determination that follows clear procedure and formalities and uses nationwide application forms and certificates that are attached herewith and considered part of this regulation whereby right holders may apply for urban or rural land or tiesa land. Right holders shall observe and defend this spirit in order for the services given to them be speedy, clear, non-discriminatory, just and guarantee of holders&#39; and Government&#39;s right.<ul>
+			</ul></li>			<li>8 - : Upon right holders&#39; indication of the location where they desire to be allocated land, their request shall be taken into consideration, but the location of the land to be allocated shall be determined by the Government.<ul>
+			</ul></li>			<li>9 - : Land to be allocated for every right holder shall, to the extent possible, have standard size throughout the nation.<ul>
+			</ul></li>			<li>10 - : Subject to Article 14 of Proclamation No. 58&#x2F;1994, land shall be allocated to citizens who have fulfilled their national duties and applied for land.<ul>
+			</ul></li>			<li>11 - : Any allocated land as well as any immovable erected over land shall be caused to be registered in the land registry by the right holder.<ul>
+			</ul></li>			<li>12 - : Sale, exchange or mortgage of land by right holders shall be prohibited by law and punishable crime. Save for land allocated for agricultural usufruct, sub-leasing other land shall be prohibited and punishable crime.<ul>
+			</ul></li>			<li>13 - : Any immovable property erected over land may be sold, exchanged, transferred or mortgaged. Where the land transfers to other person, all changes shall be caused to be registered by the transferee. Nonetheless, dwelling house may be sold or exchanged after it is completely constructed and habitation certificate is given from the concerned authority through the Ministry of Land, Water and Environment.<ul>
+			</ul></li>			<li>14 - : Subject to the provisions of Article 53 of Proclamation 58&#x2F;1994, all land allocated prior to the issuance of this legal notice shall be caused to be registered by the right holder. Seeing to it that such registration is made shall be the responsibility of the Ministry of Land, Water and Environment.<ul>
+			</ul></li></ul>

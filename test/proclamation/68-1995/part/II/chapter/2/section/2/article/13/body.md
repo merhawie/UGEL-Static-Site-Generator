@@ -1,0 +1,8 @@
+article 13: Discovery System
+
+<ul>
+			<li>1 - : Any person who, while prospecting on land that is not the subject of a license or of an application for a license, discovers indications of minerals or a deposit of minerals which had not been previously discovered, shall immediately mark the location of the discovery, and within 7 days notify the Controller about the discovery. <ul>
+			</ul></li>			<li>2 - : If the discovery is proven to the satisfaction of the Licensing Authority, then the discoverer shall have a preferential right to obtain an exploration license in respect of an area specified in the regulations with the discovery mark being at the point where two diagonal lines drawn from opposite corners of the license would intersect. The period during which such an application can be made shall be specified in a discovery certificate issued by the Licensing Authority and shall not exceed 12 months from the notification of the discovery. <ul>
+			</ul></li>			<li>3 - : Upon receipt of advice of a discovery, the Controller shall indicate on plans held at the Licensing Authority&#39;s office the extent of the discovery area which shall not include any ground already held under license or the subject of a prior license application. <ul>
+			</ul></li>			<li>4 - : The fees and expenditure obligations for an exploration license obtained as a result of an application by the holder of a discovery certificate shall be as specified in the Regulations. <ul>
+			</ul></li></ul>

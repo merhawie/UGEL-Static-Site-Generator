@@ -1,0 +1,14 @@
+article 49: Minister may issue Regulations 
+The Minister may issue Regulations: 
+<ul>
+			<li>a - : Prescribing qualifications as to the citizenship, integrity, financial condition, residency or any other qualification or condition that the Minister deems relevant that must be met by an operator or associates in order to apply for a permit for a transit warehouse, container depot, container bank, bonded warehouse, duty free- shop or any temporary facility for storing imported goods that have not been released from Customs control; <ul>
+			</ul></li>			<li>b - : prescribing the terms and conditions under which a permit may be granted, including the security or standing deposit that may be required of operators,, the duration of such permits and the fees, if any, to be paid to Customs for the privilege of operating the facilities mentioned in paragraph (a) of this Article, <ul>
+			</ul></li>			<li>c - : prescribing the circumstances in which such permits may be issued, amended, suspended, renewed, canceled or reinstated along with any penalties for negligence or contravention of the Regulations on the part of the operator; <ul>
+			</ul></li>			<li>d - : establishing the standards for transit warehouses, container depots, bonded warehouses, duty free shops and temporary storage facilities, such standards to include location, space, offices, equipment and security of these facilities; <ul>
+			</ul></li>			<li>e - : prescribing the records to be kept by operators, the location and the organization of such records, the retention period and providing for the free access to the premises and records by an officer;<ul>
+			</ul></li>			<li>f - : prescribing the manner in which operators will acknowledge receipt of goods into transit warehouses, container depots, bonded warehouses and duty free shops; <ul>
+			</ul></li>			<li>g - : establishing the extent, circumstances and guidelines relating to the manipulation, unpacking, repackaging alteration or the combination of goods with other goods while in transit warehouses, container depots, bonded warehouses or duty free shops,<ul>
+			</ul></li>			<li>h - : prescribing the quality of facilities, space for officers and the type and numbers of equipment that must be provided by the operator at transit warehouses, container depots, bonded warehouses and duty free shops; <ul>
+			</ul></li>			<li>i - : prescribing the circumstances under which any operator may refuse goods for safekeeping; and <ul>
+			</ul></li>			<li>j - : prescribing the circumstances governing the transfer of ownership of goods in transit warehouses, container depots, bonded warehouses or duty free shops. <ul>
+			</ul></li></ul>

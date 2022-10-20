@@ -1,0 +1,12 @@
+article 6: Rural land 
+
+<ul>
+			<li>1 - : The Government shall classify land for housing and farming activities in the villages of Eritrea for village residents and persons whose livelihood depends on land, and shall distribute rural land  in accordance with this Proclamation and rules and regulations to be issued by the Land Commission.<ul>
+			</ul></li>			<li>2 - : Subject to article 11(2), usufruct rights to land for farming activities in village areas of Eritrea shall be granted only to those Eritrean citizens who are permanent residents of Eritrean villages and whose livelihood depends on land, and to those Eritrean citizens who are granted Government permission to settle in villages and live by using the land.<ul>
+			</ul></li>			<li>3 - : Without prejudice to sub-article 2 of this Article and Article 29(4) of this Proclamation, every Eritrean citizen shall have the right to obtain tiesa land  (land for housing) in his home village.<ul>
+			</ul></li>			<li>4 - : Where Eritrean citizens are unable to obtain tiesa land pursuant to sub-article (3) of this Article,  they are entitled to apply for and obtain tiesa land in accordance with Article 29(4).<ul>
+			</ul></li>			<li>5 - : In case of a shortage in the distribution of land for housing or farming activities, the land administrative body shall, according to the relevant sections of this Proclamation and the directives of the Land Commission, arrange a list of priorities for distributing land.<ul>
+			</ul></li>			<li>6 - : All land left over after distribution shall be administered by the Government.  Such land shall be used in accordance with directives and formalities issued by the Land Commission.<ul>
+			</ul></li>			<li>7 - : Any person or citizen who obtains usufructuary right over tiesa land outside his home village shall be deemed to have waived his right of obtaining such right in his home village.  The land administrative body may distribute such land to others.  However, a person who has been allotted tiesa land shall not be prohibited from purchasing or renting a village house.<ul>
+			</ul></li>			<li>8 - : Any discrimination on account of sex, belief, or origin while implementing the rights described under this Article shall be absolutely prohibited by law.<ul>
+			</ul></li></ul>

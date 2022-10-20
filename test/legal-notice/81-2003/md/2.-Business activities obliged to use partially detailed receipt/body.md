@@ -1,0 +1,58 @@
+md : 2. Business activities obliged to use partially detailed receipt
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th colspan&#x3D;2&gt;2. Business activities obliged to use partially detailed receipt&lt;&#x2F;th&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;&lt;&#x2F;td&gt;
+            &lt;td&gt;Activity code indicated on business license&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;1&lt;&#x2F;td&gt;
+            &lt;td&gt;A30, A92&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2&lt;&#x2F;td&gt;
+            &lt;td&gt;B31*, B34&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;3&lt;&#x2F;td&gt;
+            &lt;td&gt;C16, C27, C62, C19*, C21*, C22*, C23*, C45*, CA7*, CA8*, CA9*, CB0*,&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;4&lt;&#x2F;td&gt;
+            &lt;td&gt;D82*&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;5&lt;&#x2F;td&gt;
+            &lt;td&gt;E40&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;6&lt;&#x2F;td&gt;
+            &lt;td&gt;G21, G23, G24, G26, G31, G35, G36, G41, G42, G46, G47, G54, G57, G60, G61, G62, G69, G71, G72, G73, G79, G80, G81, G82, G84, G85, G87, G88, G94, G95, G98, GA0, GA1, GA3, GA4, GA5, GA7, GB0, GB2, GB4, GB7, GB8, GB9, GC0, GC1, GC7, GC8, GD3,
+                GD6, GD8, G25*&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;7&lt;&#x2F;td&gt;
+            &lt;td&gt;H11, H13, H20, H70, H71, H72, H73, H75&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;8&lt;&#x2F;td&gt;
+            &lt;td&gt;J17, J18, J30, J33, J38, J40, J41, J42, J50, J71, J80, JA0, JC0, JD0, JE1, JE2, JE3, JG0, Ji1, Ji3, JL0, JL2, JL3, JG1*&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;9&lt;&#x2F;td&gt;
+            &lt;td&gt;KH0&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+            &lt;&#x2F;tbody&gt;
+    &lt;tfoot&gt;
+&lt;tr&gt;
+            &lt;td colspan&#x3D;2&gt;(*) As there may exist such conditions that one activity be obliged to use more than one type of receipt, the code of activity that is obliged to use more than one type of receipt are indicated by asterisk (*)&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;tfoot&gt;
+&lt;&#x2F;table&gt;
+<ul>
+</ul>

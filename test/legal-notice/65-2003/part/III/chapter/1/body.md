@@ -1,0 +1,12 @@
+chapter 1: General provisions for sampling
+
+<ul>
+			<li>9 - Personnel: An authorized qualified person, as specified by the Fish Inspection and Quality Control Division (CA) of the Ministry of Fisheries, shall conduct sampling.<ul>
+			</ul></li>			<li>10 - Material to be sampled: Each lot must be sampled separately.<ul>
+			</ul></li>			<li>11 - Precautions to be taken: In the course of sampling and preparation of laboratory samples precautions must be taken to avoid any changes that would affect the lead, cadmium and mercury contents and adversely affect the analytical determination or make the aggregate samples unrepresentative.<ul>
+			</ul></li>			<li>12 - Incremental samples: As far as possible incremental samples shall be taken at various places distributed throughout the lot or sub-lot. Departure from this procedure must be recorded in the record provided for under Article 13 hereof.<ul>
+			</ul></li>			<li>13 - Preparation of the aggregate sample: Uniting all incremental samples makes up the aggregate sample. It shall be at least 1 kg unless not practical, e.g. when a single package has been sampled.<ul>
+			</ul></li>			<li>14 - Subdivision of aggregate sample into laboratory samples for enforcement, defense and referral purposes: The laboratory samples for enforcement, trade (defense) and referral purposes shall be taken from the homogenized aggregate sample. The size of the laboratory samples for enforcement shall be sufficient to allow at least for duplicate analyses.<ul>
+			</ul></li>			<li>15 - Packaging and transport of aggregate and laboratory samples: Each aggregate and laboratory sample shall be placed in a clean and inert container that gives adequate protection from contamination, from loss of analytes by adsorption to the internal wall of the container and against damage on transit. All necessary precautions shall be taken to avoid change of composition of the aggregate and laboratory samples that might arise during transportation or storage.<ul>
+			</ul></li>			<li>16 - Sealing and labeling of aggregate and laboratory samples: Each sample taken for official use shall be sealed at the place of sampling and identified using the standard laboratory instructions. A record, including the date and place of sampling together with any additional information likely to be of assistance to the analyst, must be kept for each sample so that each lot can be identified unambiguously.<ul>
+			</ul></li></ul>

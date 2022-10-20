@@ -1,0 +1,6 @@
+article 9: Sampling
+The sample shall be collected in sterile bottle. The tap to be sampled shall be run for long enough to completely flush the pipe supplying the tap, and in any case for 2-3 minutes. Before a water sample is drawn from the tap, the tip of the tap shall be flamed using spirit and water shall be allowed to flow for 5 minutes before collection. In cases where the test is undertaken 3 hours or more after sampling, the bottles must be kept in ice. If a sample is to be taken from a chlorinated water supply, any trace of chlorine shall be neutralized immediately after collection. A crystal of sodium thiosalphate introduced into the sampling bottle prior to sterilization serves to neutralize the chlorine.
+The samples shall be taken from various outlets within the plant. A rotation is organized between the identified outlets from which the water is in contact with the product. Ice shall also be regularly tested.
+The result of the examination shall have the identification of the outlet where the sample is collected.
+<ul>
+</ul>

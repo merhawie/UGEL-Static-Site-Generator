@@ -1,0 +1,7 @@
+article 64: Right of appeal in respect of seized goods and fines for contravention 
+
+<ul>
+			<li>1 - : Any person implicated in a contravention of this Proclamation or the Regulations where goods and&#x2F;or conveyances have been seized shall have the right to appeal to the Minister within thirty days of the date of the notice of such seizure in a form and manner as prescribed in the Regulations, but in any event shall include all information to assist the Minister to make a decision in respect of the seizure. <ul>
+			</ul></li>			<li>2 - : Any person implicated in a contravention of this Proclamation or Regulations where a penalty of fine has been imposed, upon payment of the penalty and within thirty days of the date of the notice of such penalty, shall have the right to appeal to the Director General in a form and manner prescribed by the Regulations, but in any event shall include all information to assist the Director General to make a decision in respect of the penalty. <ul>
+			</ul></li>			<li>3 - : Within sixty (60) days of the date of the decision in writing by the Minister or the Director General, any person may lodge a further appeal to the High Court. <ul>
+			</ul></li></ul>

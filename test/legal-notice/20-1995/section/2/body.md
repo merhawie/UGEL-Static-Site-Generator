@@ -1,0 +1,11 @@
+section 2: Payment in cash or benefit in kind
+
+<ul>
+			<li>4 - : <ul>
+			</ul></li>			<li>5 - : Where an employee is retired for various reasons before he reaches pension age and the amount paid by him as pension contribution while working is refunded back, he shall be exempted from payment of income tax from employment.<ul>
+			</ul></li>			<li>6 - : If the tax on income from employment instead of being deducted from the salary or wage of the employee is paid by the employer in whole or in part out of his own expense for the employee the amount so paid shall be added to the taxable income and shall be assessed as part thereof. <ul>
+			</ul></li>			<li>7 - : Unskilled workers referred to in Article 31(2) of the proclamation, shall be considered as employed regularly by one (1) employer if they work for the same employer for more than fifteen (15) days in the aggregate in a single month and shall pay tax on income from employment. <ul>
+			</ul></li>			<li>8 - : Persons referred to in Article 31(3) of the Proclamation who remains in Eritrea for more than one hundred and eighty three (183) days in the aggregate in any twelve month period, shall be liable to pay the tax on income from employment received by them for the entire period during which they are in Eritrea.<ul>
+			</ul></li>			<li>9 - : Pursuant to the powers issued in Article 15 of the Proclamation, the Inland Revenue Department shall, depending on the conditions of each case, decide or allow for the tax payers who need to declare and pay the tax on income from employment on a period longer than one month. <ul>
+			</ul></li>			<li>10 - : If the Inland Revenue Department has reason to consider that the total amount of salaries and other personal emoluments payable to the manager or managers of a partnership or a private limited company is exaggerated, it may reduce said amount for taxation purposes to the limit which in view of the operations of the partnership or the private limited company, appears justifiable, either by disallowing the payments made to more than one manager or in any other way which may be just and appropriate. <ul>
+			</ul></li></ul>

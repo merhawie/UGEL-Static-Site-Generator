@@ -1,0 +1,8 @@
+article 77: Rewards to informants and officials
+
+<ul>
+			<li>1 - : The Minister may prescribe by Regulations the amount of any reward to a person who is not an employee of the State of Eritrea and who gives information on any contravention of this Proclamation pertaining to the evasion of duties and taxes or to the smuggling of prohibited or restricted goods only where such information results in the apprehension, seizure and forfeiture of the goods or in the criminal conviction of the person responsible, such reward to be paid from any penalties or from the sale of the forfeited goods. <ul>
+			</ul></li>			<li>2 - : The Minister may prescribe by Regulations the amount of any reward to officers of the Department who are directly or indirectly involved in the prevention of offenses of this Proclamation where goods illegally imported are apprehended, seized and forfeited, such rewards to be paid from any penalties or from the sale of the forfeited goods. <ul>
+			</ul></li>			<li>3 - : For the purposes of sub-article (l) of this Article the identity of any person providing information in respect of any contravention of this Proclamation shall be kept confidential by any officer or official receiving that information subject to the secrecy provisions contained in Article 9 hereof. <ul>
+			</ul></li>			<li>4 - : The provisions of sub-article (2) of this Article apply equally to anyone employed in any capacity by the State of Eritrea and who provides information according to sub-article (1) of this Article or who is directly involved in the prevention of offenses under this Proclamation by apprehending anything imported in contravention of this Proclamation. <ul>
+			</ul></li></ul>

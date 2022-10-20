@@ -1,0 +1,12 @@
+article 7: Open Competition Activities
+
+<ul>
+			<li>1 - : Open competition activities shall encompass:<ul>
+						<li>a - : the provision of value added services, which for the purposes these Regulations are defined as telecommunications services other than the services stipulated under Articles 5 and 6 hereof Value added services may only be provided by persons holding a permit pursuant to Article 12 of the Proclamation;<ul>
+						</ul></li>						<li>b - : the importation, manufacture, sale, lease or installation of telecommunications equipment, including wiring inside users premises from a network termination point to the users&#39; terminal telecommunications equipment, as provided in Article 23 of the Proclamation. Such activities may only be offered persons holding a permit pursuant to Article 23 of the Proclamation;<ul>
+						</ul></li>						<li>c - : the provision of public payphone services. A permit pursuant to Article 12 of the Proclamation is not required if the person who provides such services (i) does not have more than three payphone units (fixed or mobile telephone terminals), or (ii) provides the payphone service in connection with and on the premises of his hotel, restaurant, bar or retail business activities. In all other instances such services may only be provided by persons holding a permit pursuant to Article 12 of the Proclamation;<ul>
+						</ul></li>						<li>d - : internal telecommunications networks for own use as specified in Article 18 of the Proclamation. The services of an installer holding a permit pursuant to Article 23 of the Proclamation shall be used in order to ensure that relevant standards are complied with;<ul>
+						</ul></li>						<li>e - : telephony and data transmission services for own use, serving a corporate network or a closed user group, and connected to the public telecommunications network. The services of an installer holding a permit pursuant to Article 23 of the Proclamation shall be used in order to ensure that relevant standards are complied with; and<ul>
+						</ul></li>						<li>f - : private telecommunications networks as specified in Article 19 of the Proclamation.<ul>
+						</ul></li>			</ul></li>			<li>2 - : A person providing the services specified in items (a), (d), (e) and (f) of this sub-Article shall be entitled to establish his own telecommunications network for this purpose and&#x2F;or utilize lines leased from the operator of the exclusive rights activities.<ul>
+			</ul></li></ul>

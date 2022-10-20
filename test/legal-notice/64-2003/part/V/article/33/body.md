@@ -1,0 +1,10 @@
+article 33: Actions and measures to be taken
+
+<ul>
+			<li>1 - : During the period in which animals and&#x2F;or aquaculture products are impounded as provided for in Articles 26 and 27 hereof, animals from the farm in question may not leave the farm of origin or be handed over to any other person except under official control. The
+Competent Authority shall take appropriate precautionary measures in accordance with the nature of the substance or substances identified.<ul>
+			</ul></li>			<li>2 - : After sampling has been carried out in accordance with Articles 26 and 27 hereof, if there is confirmation of a case of illegal treatment, the animal or animals found to be positive shall be taken to the designated knackers’ yard or high risk processing plant under cover of an official inspection certificate in order to be destroyed there. In addition, samples shall be taken for analysis at the farm&#39;s expense from the entire batch of animals belonging to the farm where illegal treatment is suspected.<ul>
+			</ul></li>			<li>3 - : However, if half or more of the samples taken by representative sampling in accordance with Articles 26 and 27 hereof are positive, the farmer may be made to choose between a check on all the animals present on the farm which are suspected or a destruction of all the aquaculture products.<ul>
+			</ul></li>			<li>4 - : For a further period of at least 12 months, the farm(s) belonging to the same owner shall be subject to more stringent checks for the residues in question. Where an organized system of self-monitoring has been set up, this facility shall be withdrawn from the farmer for that period.<ul>
+			</ul></li>			<li>5 - : In view of the infringement recorded, the farms or establishments supplying the holding concerned shall be subject to checks in addition to those provided for in Article 13(1) hereof to determine the origin of the substance in question. The same shall apply to all farms and establishments in the same supply chain of animals and animal feed as the farm of origin or departure.<ul>
+			</ul></li></ul>

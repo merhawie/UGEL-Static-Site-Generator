@@ -1,0 +1,4 @@
+article 18: Annual Work Program and Budget
+At least forty five (45) days prior to the beginning of each calendar year each Contractor shall prepare and submit for review by the Minister a detailed annual work program and work program budget of Petroleum Operations and Petroleum Operations Expenditures by Quarters for the contract area, setting forth the Petroleum Operations the Contractor proposes to carry out during the ensuing calendar year. Such annual Work programs and Work program budgets shall comply with the minimum work and expenditure obligations and other provisions of the relevant Contract.
+<ul>
+</ul>

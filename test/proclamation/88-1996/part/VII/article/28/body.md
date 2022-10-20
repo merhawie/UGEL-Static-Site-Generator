@@ -1,0 +1,12 @@
+article 28: Appeal Against Order of Disciplinary Committee
+
+<ul>
+			<li>1 - : Any advocate aggrieved by order of the Disciplinary Committee made under Article 26 hereof may, within fifteen days after the receipt by him of the notice to be given pursuant to Article 27 hereof, appeal against such order to the Legal Committee by giving notice of appeal in writing to the Registrar, and shall file with him a memorandum setting out his grounds of appeal within thirty days after giving by him of such notice of appeal.<ul>
+			</ul></li>			<li>2 - : The Legal Committee shall set down for hearing any appeal filed under sub-Article (1) hereof and shall give to the complainant, the executive council of the Advocates&#39; Association and to the advocate not less than 15 days&#39; notice for the date of hearing.<ul>
+			</ul></li>			<li>3 - : When notifying the complainant, the executive council of the Advocates&#39; Association and the advocate to whom a complaint relates of the date fixed for the hearing of the appeal, the Registrar shall also forward to each of them a copy of the report of the evidence, a list of any documents put in evidence and the memorandum of appeal.<ul>
+			</ul></li>			<li>4 - : The Legal Committee, after considering the evidence taken by the Disciplinary Committee, the report of the Disciplinary Committee and the memorandum of appeal, and having heard the parties, and after taking any further evidence, if it thinks fit so to do may:<ul>
+						<li>a - : refer the report back to the Disciplinary Committee with direction for its findings on any specified points; or<ul>
+						</ul></li>						<li>b - : confirm, set aside or vary any order made by the Disciplinary Committee or substitute therefor such order as it may think fit and may also make such order as to the payment by any person of costs, or otherwise in relation to the appeal, as it may think fit.<ul>
+						</ul></li>			</ul></li>			<li>5 - : The decisions and orders of the Legal Committee under this Article may be registered with the High Court and shall forthwith be enforceable in the same manner as an order of the Court.<ul>
+			</ul></li>			<li>6 - : The decisions of the Legal Committee shall be final.<ul>
+			</ul></li></ul>

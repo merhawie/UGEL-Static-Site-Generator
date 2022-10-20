@@ -1,0 +1,11 @@
+article 15: Remedial actions and restrictions in use
+
+<ul>
+			<li>1 - : The Competent Authority shall ensure that any failure to meet the parametric values set in accordance with Article 5 hereof is immediately investigated in order to identify the cause.<ul>
+			</ul></li>			<li>2 - : If the measures taken to meet the obligations imposed does not meet the parametric values set in accordance with Article 5 hereof, the Competent Authority shall ensure that the necessary remedial actions are taken as soon as possible to restore its quality. The Competent Authority shall give priority to the enforcement of the remedial actions, having regard inter alia to the extent to which the relevant parametric values have been exceeded a d thus the potential danger to human health.<ul>
+			</ul></li>			<li>3 - : Whether there is a failure to meet the parametric values or not, the Competent Authority shall ensure that any supply of water intended for fishery product activities that constitutes a potential danger to human health is prohibited or its use restricted or such other action is taken as is necessary to protect human health.<ul>
+			</ul></li>			<li>4 - : The Competent Authority shall decide what action under sub-article 3 hereof should be taken, bearing in mind the possible health risks either by an interruption of the supply or a restriction in its use for fishery product activities.<ul>
+			</ul></li>			<li>5 - : Other Ministries, such as the Ministry of Land, Water and Environment, may establish guidelines to assist the Competent Authority to fulfill its obligations stated under sub-article (4) hereof.<ul>
+			</ul></li>			<li>6 - : In the event of non-compliance with the parametric values or with the specifications set out in Annex I of Part C hereof, the Competent Authority shall consider whether that non-compliance poses any health risks and shall take remedial actions to restore the quality of the water.<ul>
+			</ul></li>			<li>7 - : Where remedial measures are taken, the Competent Authority shall ensure that the establishments are notified except when it considers that the non-compliance is trivial.<ul>
+			</ul></li></ul>

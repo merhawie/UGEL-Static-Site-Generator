@@ -1,0 +1,12 @@
+article 8: Listing of hazards and control measures
+Using the confirmed flow diagram as a guide the team should:
+<ul>
+			<li>1 - : List all potential biological, chemical or physical hazards that may be reasonably expected to occur at each process step (including acquisition and storage of raw materials and ingredients and delay during manufacture) A hazard is a potential to cause harm to health and is anything covered by the hygiene objectives of the Fishery Product Regulations Legal Notice No 40&#x2F;1998 specifically; it can be any of the following:<ul>
+						<li>a - : unacceptable contamination (or recontamination) of a biological (micro organisms, parasites) chemical or physical nature of raw materials, intermediate or final products;<ul>
+						</ul></li>						<li>b - : unacceptable survival or multiplication of pathogenic microorganism and unacceptable generation of chemicals in intermediate products, final products, production line or environment; and<ul>
+						</ul></li>						<li>c - : unacceptable production or persistence of toxins or other undesirable products of microbial metabolism. For inclusion in the list, hazards must be of a nature such that their elimination or reduction to acceptable levels is essential to the production of safe food.<ul>
+						</ul></li>			</ul></li>			<li>2 - : Consider and describe what control measures, if any, exist which can be applied for each hazard.<ul>
+						<li>a - : Control measures are those actions and activities that can be used to prevent hazards, eliminate them or reduce their impact or occurrence to acceptable levels.<ul>
+						</ul></li>						<li>b - : More than one control measure may be required to control an identified hazard and more than one hazard may be controlled by one control measure for instance, pasteurization or controlled heat treatment may provide sufficient assurance of reduction of the level of both Salmonella and Lasteria.<ul>
+						</ul></li>						<li>c - : Control measures need to be supported by detailed procedures and specifications to ensure their effective implementation. For instance, detailed cleaning schedules, precise heat treatment specifications, maximum concentrations of preservatives used in compliance with the applicable legislation on additives<ul>
+						</ul></li>			</ul></li></ul>

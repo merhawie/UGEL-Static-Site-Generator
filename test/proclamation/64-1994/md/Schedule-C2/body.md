@@ -1,0 +1,41 @@
+md : Schedule C2
+&lt;table&gt;
+    &lt;thead&gt;
+&lt;tr&gt;&lt;th colspan&#x3D;2&gt;Schedule C2&lt;&#x2F;th&gt;&lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td colspan&#x3D;2&gt;Types of Services Subject to Service Tax of 5%&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;thead&gt;
+    &lt;tbody&gt;
+        &lt;tr&gt;
+            &lt;td&gt;1&lt;&#x2F;td&gt;
+            &lt;td&gt;Contructors&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;2&lt;&#x2F;td&gt;
+            &lt;td&gt;Hair dressing and beauty saloon&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;3&lt;&#x2F;td&gt;
+            &lt;td&gt;Tailoring&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;4&lt;&#x2F;td&gt;
+            &lt;td&gt;Repairs and maintenance not including Garage.&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;5&lt;&#x2F;td&gt;
+            &lt;td&gt;Washing and Greezing&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;6&lt;&#x2F;td&gt;
+            &lt;td&gt;Billiard and bowling&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+        &lt;tr&gt;
+            &lt;td&gt;7&lt;&#x2F;td&gt;
+            &lt;td&gt;Educational Training (typing, driving, tailoring, computer and thereon)&lt;&#x2F;td&gt;
+        &lt;&#x2F;tr&gt;
+    &lt;&#x2F;tbody&gt;
+&lt;&#x2F;table&gt;
+<ul>
+</ul>
